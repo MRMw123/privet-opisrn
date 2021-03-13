@@ -1,120 +1,451 @@
 #EXTM3U
-
-#EXTINF:-1,MBC 2
- rtmp://live-f01.vustream.net/live/livestream
- #EXTINF:-1,MBC 3
- rtmpt://162.212.176.107:1935/mbc_3?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM=//globaltv-mbc_3.stream
- #EXTINF:-1,MBC 4
- rtmp://162.212.176.107/mbc_4/globaltv-mbc_4.stream
- #EXTINF:-1,MBC_BOLLYWOOD
- rtmp://63.237.48.3:1935/live/MBC_BOLLYWOOD
- #EXTINF:-1,mbc_max
- rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
- #EXTINF:-1,MBC_ACTION
- rtmp://63.237.48.3:1935/live/MBC_ACTION
- #EXTINF:-1,MBC Masr 1
- http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel01/_definst_/live/stream1.m3u8
- #EXTINF:-1,MBC Masr 2
- http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel02/_definst_/live/stream1.m3u8
- #EXTINF:-1,MBC Sports Pro 1
- http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
- #EXTINF:-1,MBC Sports Pro 2
- http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
- #EXTINF:-1,MBC Sports Pro 3
- http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
- #EXTINF:-1, MBC SPORTS PRO 4
- http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
- #EXTINF:-1, Nile Comedy
- rtmpt://162.212.176.107:1935/nile_comedy?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-nile_comedy.stream
- #EXTINF:-1, Nile Drama
- rtmpt://162.212.176.107:1935/nile_drama?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-nile_drama.stream
- #EXTINF:-1, Nile Cinema
- rtmpt://162.212.176.107:1935/nile_cinema?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-nile_cinema.stream
- #EXTINF:-1,Jeem
- rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
- #EXTINF:-1,tom y jerry
- http://66.90.111.66:1935/ctv/tom/playlist.m3u8
- #EXTINF:-1,alfajertv
- rtmp://vstream2.hadara.ps/unlimitedalfajer//alfajertv_1
- #EXTINF:-1,agyal
- rtmp://46.43.64.162/ajyal//livestream2
- #EXTINF:-1,mayadeen
- http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
- #EXTINF:-1,mayadeen
- rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
- #EXTINF:-1,alalamia
- rtmp://ns8.indexforce.com/alalamia/alalamia
- #EXTINF:-1, OTV Lebanon
- http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
- #EXTINF:-1,Aljadeed
- http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
- #EXTINF:-1,Echorouk TV
- http://162.212.176.107:1935/echorouk_tv/globaltv-echorouk_tv.stream/gmswf.m3u8
- #EXTINF:-1,MTV Liban
- rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
- #EXTINF:-1,LBC
- rtmp://162.212.176.107/lbc_europe//globaltv-lbc_europe.stream
- #EXTINF:-1,LBC
- rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2
- #EXTINF:-1,NBN
- rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
- #EXTINF:-1,cna
- rtmp://str81.creacast.com:80/cna/live.sdp
- #EXTINF:-1, Syria
- http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
- #EXTINF:-1, Syria Aloula
- http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
- #EXTINF:-1, Syria Drama
- http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
- #EXTINF:-1,Talaqie
- rtmp://82.137.248.20/Talaqie/TalaqieLive2
- #EXTINF:-1,Syrian Educational TV
- rtmp://82.137.248.16/Snews/SnewsLive1
- #EXTINF:-1,Alikhbaria Syria
- rtmp://82.137.248.16/Snews/SnewsLive1
- #EXTINF:-1,sahraa
- rtmp://79.134.137.65/live//Sahraa.stream
- #EXTINF:-1,sahraa2
- rtmp://79.134.137.65:1935/liveS2/Sahraa2.stream
- #EXTINF:-1,sahraa 3
- rtmp://navigatorsjo.com/amjad/amjad.stream
- #EXTINF:-1,Sahar TV 1
- rtsp://sahar1.live.hypercdn.com/live-35895787/sahartv1-512.sdp
- #EXTINF:-1,Iqraatv
- http://fl1.viastreaming.net:1935/iqraatv/livestream/HasBahCa.m3u8
- #EXTINF:-1,Alriadia_sport
- http://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream/chunklist_w573046591.m3u8
- #EXTINF:-1,tunisia_national_1
- rtmp://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream
- #EXTINF:-1,tunisia_national_2
- rtmp://162.212.176.107:1935/tunisia_national_2/globaltv-tunisia_national_2.stream
- #EXTINF:-1,nessma
- rtmp://162.212.176.107:1935/nessma/globaltv-nessma.stream
- #EXTINF:-1,hanibal
- rtmp://162.212.176.107:1935/hanibal/globaltv-hanibal.stream
- #EXTINF:-1,ALJAZEERA
- rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
- #EXTINF:-1,aljazeera_mubasher
- rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
- #EXTINF:-1,alarabiya
- http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
- #EXTINF:-1,ANN
- rtmp://ns8.indexforce.com/ann/ann
- #EXTINF:-1,El sharq
- http://tvlive.web.tv.streamprovider.net/akamairecordrtmp/f2d0f879a3a93c43b5a6e05b2510fe24_liveRecord_0_0/chunklist.m3u8
-
-abdelilah5
- 20:44 - 2015/06/14	 
-Fox Sports, BT Sports 2
-
-#EXTINF:-1, Fox Sports
- rtmp://$OPT:rtmp-raw=rtmp://5.63.151.68/live playpath=comediatv?id=230830 swfUrl=http://www.mips.tv/content/scripts/fplayer.swf live=1 pageUrl=http://www.mips.tv/ conn=S:OK
- #EXTINF:-1, BT Sports 2
- rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=2rsun77gno6n0cv swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
- #EXTINF:-1, UFC NETWORK
- rtmp://$OPT:rtmp-raw=rtmpe://r.livecast.cc/rl/ playpath=bob10sd swfUrl=http://livecast.cc/player/player.swf live=1 pageUrl=http://livecast.cc/live/stream22.ph
- #EXTINF:-1, RCN HD
- rtmp://$OPT:rtmp-raw=rtmp://safe.iguide.to/iguide playpath=6pcq5w2wmer1cfh swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
- #EXTINF:-1, DIRECT SPORT TV
- rtmp://$OPT:rtmp-raw=rtmp://safe.iguide.to/iguide playpath=jqp6qmrt060t0wy swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=29908&autoplay=true token=#ed%h0#w18623jsda6523lDGDVe
-
+#EXTINF:-1,▬ Sweden [SE] ▬
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/16515
+#EXTINF:-1,SVT 1 Skåne SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/34168
+#EXTINF:-1,SVT 1 Väst SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/34367
+#EXTINF:-1,SVT 1 Smaland SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/35202
+#EXTINF:-1,SVT 1 Jonkoping SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/35203
+#EXTINF:-1,SVT 1 Ost SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/35204
+#EXTINF:-1,SVT 1 Västerbotten SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/53310
+#EXTINF:-1,SVT 1 Västernorrland SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/34374
+#EXTINF:-1,SVT1 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11529
+#EXTINF:-1,SVT1 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/18631
+#EXTINF:-1,SVT1 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15553
+#EXTINF:-1,SVT 2 Skåne SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/34169
+#EXTINF:-1,SVT 2 Väst SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/34368
+#EXTINF:-1,SVT 2 Västernorrland SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/34375
+#EXTINF:-1,SVT 2 Ost SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/35205
+#EXTINF:-1,SVT 2 Jonkoping SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/35206
+#EXTINF:-1,SVT 2 Smaland SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/35207
+#EXTINF:-1,SVT2 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11530
+#EXTINF:-1,SVT2 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/18630
+#EXTINF:-1,SVT2 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15515
+#EXTINF:-1,SVTB/SVT24 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/16577
+#EXTINF:-1,SVTB/SVT24 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/18629
+#EXTINF:-1,SVTB/SVT24 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/16578
+#EXTINF:-1,TV3 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11531
+#EXTINF:-1,TV3 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15560
+#EXTINF:-1,TV4 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/18627
+#EXTINF:-1,TV4 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14429
+#EXTINF:-1,TV4 Guld SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11543
+#EXTINF:-1,Kanal 5 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14442
+#EXTINF:-1,Kanal 5 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11562
+#EXTINF:-1,TV6 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11534
+#EXTINF:-1,TV6 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15542
+#EXTINF:-1,Sjuan SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11535
+#EXTINF:-1,Sjuan FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/20421
+#EXTINF:-1,TV8 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11536
+#EXTINF:-1,TV8 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/21914
+#EXTINF:-1,Kanal 9 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11537
+#EXTINF:-1,Kanal 9 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/18624
+#EXTINF:-1,Kanal 9 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11617
+#EXTINF:-1,TV10 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/21915
+#EXTINF:-1,TV10 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/27307
+#EXTINF:-1,Kanal 11 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11539
+#EXTINF:-1,Kanal 11 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/18623
+#EXTINF:-1,Kanal 11 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15498
+#EXTINF:-1,TV12 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11540
+#EXTINF:-1,TV12 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/18626
+#EXTINF:-1,TV12 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15527
+#EXTINF:-1,Boomerang SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11550
+#EXTINF:-1,Cartoon Network SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11551
+#EXTINF:-1,Disney Channel SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11549
+#EXTINF:-1,Disney Junior SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11548
+#EXTINF:-1,Disney XD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11547
+#EXTINF:-1,Nick Jr. SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/12364
+#EXTINF:-1,Nickelodeon SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/12077
+#EXTINF:-1,Nickelodeon HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15559
+#EXTINF:-1,NickToons SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/18673
+#EXTINF:-1,Swedish Kids Movies 24/7 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/29864
+#EXTINF:-1,Animal Planet FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15551
+#EXTINF:-1,Animal Planet [Multi-sub] SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/27013
+#EXTINF:-1,BBC Brit HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/19633
+#EXTINF:-1,BBC Earth HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14456
+#EXTINF:-1,Discovery Channel SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11580
+#EXTINF:-1,Discovery HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14451
+#EXTINF:-1,Discovery Channel HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/18622
+#EXTINF:-1,Discovery Channel FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15495
+#EXTINF:-1,Discovery Science SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11618
+#EXTINF:-1,Investigation Discovery SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15497
+#EXTINF:-1,H2 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/17808
+#EXTINF:-1,History HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14446
+#EXTINF:-1,Kunskapskanalen SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11579
+#EXTINF:-1,National Geographic HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/34156
+#EXTINF:-1,National Geographic FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14666
+#EXTINF:-1,National Geographic Wild HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11578
+#EXTINF:-1,National Geographic Wild FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/34155
+#EXTINF:-1,Travel Channel HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14428
+#EXTINF:-1,TV4 Fakta SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11544
+#EXTINF:-1,Viasat Explore SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/12360
+#EXTINF:-1,Viasat History FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/12283
+#EXTINF:-1,Viasat Nature SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14663
+#EXTINF:-1,E! SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/12079
+#EXTINF:-1,MTV SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14668
+#EXTINF:-1,VH1 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/18670
+#EXTINF:-1,TLC FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15503
+#EXTINF:-1,TLC HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14430
+#EXTINF:-1,FOX SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15555
+#EXTINF:-1,Paramount Network SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15543
+#EXTINF:-1,C More Hits HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/19806
+#EXTINF:-1,C More Hits FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11559
+#EXTINF:-1,C More First HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/19805
+#EXTINF:-1,C More First FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11558
+#EXTINF:-1,C More Series HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/19808
+#EXTINF:-1,C More Series FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11561
+#EXTINF:-1,C More Stars HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/19807
+#EXTINF:-1,C More Stars FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15556
+#EXTINF:-1,SF-Kanalen SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11565
+#EXTINF:-1,TV4 Film SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11541
+#EXTINF:-1,V Film Action HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/19810
+#EXTINF:-1,V Film Action FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11554
+#EXTINF:-1,V Film Family SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11552
+#EXTINF:-1,V Film Hits FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/19809
+#EXTINF:-1,V Film Premiere HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11553
+#EXTINF:-1,V Film Premiere FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/19811
+#EXTINF:-1,V Series FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/20026
+#EXTINF:-1,V Series HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11555
+#EXTINF:-1,ATG Live SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/18324
+#EXTINF:-1,C More Fotboll SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11571
+#EXTINF:-1,C More Fotboll HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14455
+#EXTINF:-1,C More Golf SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/19476
+#EXTINF:-1,C More Hockey SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15552
+#EXTINF:-1,C More Hockey FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14454
+#EXTINF:-1,C More Live SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/28845
+#EXTINF:-1,C More Live HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15530
+#EXTINF:-1,C More Live 2 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15531
+#EXTINF:-1,C More Live 2 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/28846
+#EXTINF:-1,C More Live 3 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15532
+#EXTINF:-1,C More Live 3 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11610
+#EXTINF:-1,C More Live 4 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15533
+#EXTINF:-1,C More Live 4 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11609
+#EXTINF:-1,C More Live 5 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14453
+#EXTINF:-1,C More Live 5 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11570
+#EXTINF:-1,DPlay Sport 1 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/33789
+#EXTINF:-1,DPlay Sport 2 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/35211
+#EXTINF:-1,Eurosport 1 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11564
+#EXTINF:-1,Eurosport 1 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15535
+#EXTINF:-1,Eurosport 2 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14450
+#EXTINF:-1,Eurosport 2 FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/15534
+#EXTINF:-1,Fight Sports SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/35140
+#EXTINF:-1,Motorvision TV FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/34154
+#EXTINF:-1,Sportkanalen FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/18930
+#EXTINF:-1,V Sport Fotboll HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14420
+#EXTINF:-1,V Sport Fotboll FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11567
+#EXTINF:-1,V Sport Golf FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11574
+#EXTINF:-1,V Sport Hockey FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11568
+#EXTINF:-1,V Sport Motor HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11569
+#EXTINF:-1,V Sport Motor FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/18228
+#EXTINF:-1,V Sport 1 Sverige HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11566
+#EXTINF:-1,V Sport 1 Sverige FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14416
+#EXTINF:-1,V Sport Extra HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/14445
+#EXTINF:-1,V Sport Extra FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/30092
+#EXTINF:-1,V Sport Premium SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/11581
+#EXTINF:-1,V Sport Premium FHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/18226
+#EXTINF:-1,V Sport Ultra HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/28842
+#EXTINF:-1,V Sport Ultra UHD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/30095
+#EXTINF:-1,Esports TV HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/25783
+#EXTINF:-1,Fuel TV HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/35183
+#EXTINF:-1,Al Jazeera International SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/28891
+#EXTINF:-1,BBC World News Europe SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/28214
+#EXTINF:-1,CNN SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/28890
+#EXTINF:-1,TV Malmo SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/30096
+#EXTINF:-1,SVT 1 Jamtland SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/37820
+#EXTINF:-1,SVT 2 Jamtland SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/37821
+#EXTINF:-1,Viaplay 1 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/39540
+#EXTINF:-1,DPlay Sport 3 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/44055
+#EXTINF:-1,DPlay Sport 4 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/44056
+#EXTINF:-1,Expressen TV HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/44162
+#EXTINF:-1,SportExpressen TV HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/44163
+#EXTINF:-1, Dplay 10 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/45892
+#EXTINF:-1,Dplay 9 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/45893
+#EXTINF:-1,Dplay 8 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/45894
+#EXTINF:-1,Dplay 7 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/45895
+#EXTINF:-1,Dplay 6 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/45896
+#EXTINF:-1,Dplay 5 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/45897
+#EXTINF:-1,Dplay 4 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/45898
+#EXTINF:-1,Dplay 3 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/45899
+#EXTINF:-1,Dplay 2 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/45900
+#EXTINF:-1,Dplay 1 SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/45901
+#EXTINF:-1,Godare HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/50316
+#EXTINF:-1,438 Dagar [2019] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44689.mkv
+#EXTINF:-1,Den Blomstertid Nu Kommer [2017] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44690.mkv
+#EXTINF:-1,Ensamma i Rymden [2018] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44691.mkv
+#EXTINF:-1,Halvdan Viking [2018] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44692.mkv
+#EXTINF:-1,Huset Vid Skogens Slut [2020] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44693.mkv
+#EXTINF:-1,In i Dimman [2018] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44694.mkv
+#EXTINF:-1,Jag Kommer Hem Igen Till Jul [2019] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44695.mkv
+#EXTINF:-1,Johan Falk 1 Gruppen For Sarskilda Insatser [2009] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44696.mkv
+#EXTINF:-1,Johan Falk 2 Vapenbroder [2009] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44697.mkv
+#EXTINF:-1,Johan Falk 3 National Target [2009] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44698.mkv
+#EXTINF:-1,Johan Falk 4 Leo Gaut [2009] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44699.mkv
+#EXTINF:-1,Johan Falk 5 Operation Naktergal [2009] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44700.mkv
+#EXTINF:-1,Johan Falk 6 De Fredlosa [2009] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44701.mkv
+#EXTINF:-1,Johan Falk 7 Spelets Regler [2012] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44702.mkv
+#EXTINF:-1,Johan Falk 8 De 107 Patrioterna [2012] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44703.mkv
+#EXTINF:-1,Johan Falk 9 Alla Rans Moder [2012] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44704.mkv
+#EXTINF:-1,Johan Falk 10 Organizatsija Karayan [2012] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44705.mkv
+#EXTINF:-1,Johan Falk 11 Barninfiltratoren [2012] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44706.mkv
+#EXTINF:-1,Johan Falk 12 Kodnamn Lisa [2012] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44707.mkv
+#EXTINF:-1,Johan Falk 13 Ur Askan I Elden [2015] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44708.mkv
+#EXTINF:-1,Johan Falk 14 Tyst Diplomati [2015] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44709.mkv
+#EXTINF:-1,Johan Falk 15 Blodsdiamanter [2015] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44710.mkv
+#EXTINF:-1,Johan Falk 16 Lockdown [2015] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44711.mkv
+#EXTINF:-1,Johan Falk 17 Slutet [2015] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44712.mkv
+#EXTINF:-1,Krocken [2018] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44713.mkv
+#EXTINF:-1,Lyckligare Kan Ingen Vara [2018] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44714.mkv
+#EXTINF:-1,Quick [2019] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44715.mkv
+#EXTINF:-1,Ring Mamma [2019] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44716.mkv
+#EXTINF:-1,Sune Best Man [2019] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44717.mkv
+#EXTINF:-1,Sune Vs Sune [2018] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44718.mkv
+#EXTINF:-1,Swoon [2019] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44719.mkv
+#EXTINF:-1,Unga Astrid [2018]  [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44720.mkv
+#EXTINF:-1,Vilsen [2016] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/44721.mkv
+#EXTINF:-1,Jatten [2016] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47115.mkv
+#EXTINF:-1,Call Girl [2012] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47230.mkv
+#EXTINF:-1,Flykten Till Framtiden [2016] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47231.mkv
+#EXTINF:-1,John Hron [2015] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47232.mkv
+#EXTINF:-1,Micke Och Veronica [2014] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47233.mkv
+#EXTINF:-1,Min Pappa Marianne [2020] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47234.mkv
+#EXTINF:-1,Rum 213 [2017] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47235.mkv
+#EXTINF:-1,Hundraaringen Som Klev Ut Genom Fonstret Och Forsvann [2013] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47236.mkv
+#EXTINF:-1,Hundraettaringen Som Smet Fran Notan Och Forsvann [2016] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47237.mkv
+#EXTINF:-1,Hypnotisoren [2012] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47238.mkv
+#EXTINF:-1,I Taket Lyser Stjarnorna [2009] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47239.mkv
+#EXTINF:-1,Jag Askar Dig En Skilsmassokomedi [2016] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47240.mkv
+#EXTINF:-1,Morran Och Tobias Som En Skank Fran Ovan [2016] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47241.mkv
+#EXTINF:-1,Smastad [2017] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47242.mkv
+#EXTINF:-1,Svinalangorna [2010] [SE]
+http://85.203.33.22:80/movie/R1Q0ecK738/AJjla6337/47243.mkv
+#EXTINF:-1,SVT 1 Dalarna SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/53311
+#EXTINF:-1,SVT 1 Gävleborg SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/53312
+#EXTINF:-1,SVT 1 Värmland SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/53313
+#EXTINF:-1,SVT 1 Örebro SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/53314
+#EXTINF:-1,SVT 2 Dalarna SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/53315
+#EXTINF:-1,SVT 2 Norrbotten SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/53316
+#EXTINF:-1,SVT 2 Värmland SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/53317
+#EXTINF:-1,SVT 2 Västerbotten SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/53318
+#EXTINF:-1,SVT 2 Örebro SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/53319
+#EXTINF:-1,Viaplay 2 HD SE
+http://85.203.33.22:80/R1Q0ecK738/AJjla6337/55883
