@@ -1,9 +1,6 @@
-#EXTM3U
-#EXTINF:-1, MBC Masr
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/index.m3u8
-#EXTINF:-1, MBC 1
-http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
-#EXTINF:-1, MBC 2
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1, MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="",MBC 3
+https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
+#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="",MBC 4
+https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
+#EXTINF:-1 tvg-id="MBC 5 ARB" tvg-name="MBC 5 ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="",MBC 5
+https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
