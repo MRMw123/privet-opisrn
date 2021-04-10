@@ -1,37 +1,8 @@
-#EXTM3U
-#EXTINF:-1,AR:AL ARABIA NEWS HD
-http://cs22cs.uk:8000/twalker/oLPupuehWA/27281
-#EXTINF:-1,AR:MBC Max
-http://cs22cs.uk:8000/twalker/oLPupuehWA/20697
-#EXTINF:-1,AR:MBC + Variety
-http://cs22cs.uk:8000/twalker/oLPupuehWA/20701
-#EXTINF:-1,AR:MBC 1 HD
-http://cs22cs.uk:8000/twalker/oLPupuehWA/20707
-#EXTINF:-1,AR:MBC4_HD
-http://cs22cs.uk:8000/twalker/oLPupuehWA/20705
-#EXTINF:-1,AR:MBC_Action-HD
-http://cs22cs.uk:8000/twalker/oLPupuehWA/20714
-#EXTINF:-1,AR:MBC BOLLYWOOD
-http://cs22cs.uk:8000/twalker/oLPupuehWA/20713
-#EXTINF:-1,AR:MBC_MAX-HD
-http://cs22cs.uk:8000/twalker/oLPupuehWA/20712
-#EXTINF:-1,AR:MBC_ProSport 2
-http://cs22cs.uk:8000/twalker/oLPupuehWA/20710
-#EXTINF:-1,AR:SAUDIA-1-TV
-http://cs22cs.uk:8000/twalker/oLPupuehWA/20703
-#EXTINF:-1,AR:Zee Alwan
-http://cs22cs.uk:8000/twalker/oLPupuehWA/20698
-#EXTINF:-1,AR:MAKKAH_QURAN
-http://cs22cs.uk:8000/twalker/oLPupuehWA/21262
-#EXTINF:-1,AR:AD Sport 2HD
-http://cs22cs.uk:8000/twalker/oLPupuehWA/27499
-#EXTINF:-1,AR:AD Sport 4 HD
-http://cs22cs.uk:8000/twalker/oLPupuehWA/27500
-#EXTINF:-1,AR:IQRAA
-http://cs22cs.uk:8000/twalker/oLPupuehWA/28336
-#EXTINF:-1,AR:SHARJAH
-http://cs22cs.uk:8000/twalker/oLPupuehWA/28335
-#EXTINF:-1,AR:SHARJAH KALBA
-http://cs22cs.uk:8000/twalker/oLPupuehWA/28334
-#EXTINF:-1,AR:Sharjah Sports
-http://cs22cs.uk:8000/twalker/oLPupuehWA/28333
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-exyu.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bosnian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/220px-Al_Jazeera_Balkans.png" group-title="News",Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/AD3Ak7T.png" group-title="",Hema Televizija
+http://77.238.209.50:8080/hema1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/hdwjkYa.png" group-title="",Televizija 5
+http://37.59.21.217:8809/live/tv5web.m3u8
+http://37.59.21.217:8802/tv5hd.ts
