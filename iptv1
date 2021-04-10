@@ -1,6 +1,4 @@
-#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="",MBC 3
-https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
-#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="",MBC 4
-https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
-#EXTINF:-1 tvg-id="MBC 5 ARB" tvg-name="MBC 5 ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="",MBC 5
-https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="",Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
