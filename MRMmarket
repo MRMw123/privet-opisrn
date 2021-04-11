@@ -471,3 +471,142 @@ https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b7248
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="",Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Today Match 2 FHD" tvg-logo="" group-title="Bein_Sports_رياضية ",Today Match 2 FHD
+http://free24ip.xyz:25461/27291618105053/123/4595
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-1-SD premium" tvg-logo="http://hfm.tn:5001/image/chn?id=267" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-1-SD premium
+http://free24ip.xyz:25461/27291618105053/123/322
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS Low_1 premium" tvg-logo="http://hfm.tn:5001/image/chn?id=267" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS Low_1 premium
+http://free24ip.xyz:25461/27291618105053/123/314
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-3-SD premium" tvg-logo="" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-3-SD premium
+http://free24ip.xyz:25461/27291618105053/123/4596
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-2-SD premium" tvg-logo="" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-2-SD premium
+http://free24ip.xyz:25461/27291618105053/123/6258
+#EXTINF:-1 tvg-id="" tvg-name="AR | ONTIME SPORTS 1 HD" tvg-logo="" group-title="Bein_Sports_رياضية ",AR | ONTIME SPORTS 1 HD
+http://free24ip.xyz:25461/27291618105053/123/9214
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS Low_1" tvg-logo="http://hfm.tn:5001/image/chn?id=260" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS Low_1
+http://free24ip.xyz:25461/27291618105053/123/307
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-1-SD" tvg-logo="http://hfm.tn:5001/image/chn?id=260" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-1-SD
+http://free24ip.xyz:25461/27291618105053/123/315
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS Low_2" tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2017/05/BS2.png" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS Low_2
+http://free24ip.xyz:25461/27291618105053/123/308
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-2-SD" tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2017/05/BS2.png" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-2-SD
+http://free24ip.xyz:25461/27291618105053/123/316
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS Low_3" tvg-logo="http://hfm.tn:5001/image/chn?id=262" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS Low_3
+http://free24ip.xyz:25461/27291618105053/123/309
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-3-SD" tvg-logo="http://hfm.tn:5001/image/chn?id=262" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-3-SD
+http://free24ip.xyz:25461/27291618105053/123/317
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS Low_4" tvg-logo="http://hfm.tn:5001/image/chn?id=263" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS Low_4
+http://free24ip.xyz:25461/27291618105053/123/310
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-4-SD" tvg-logo="http://hfm.tn:5001/image/chn?id=263" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-4-SD
+http://free24ip.xyz:25461/27291618105053/123/318
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS Low_5" tvg-logo="http://hfm.tn:5001/image/chn?id=264" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS Low_5
+http://free24ip.xyz:25461/27291618105053/123/311
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-5-SD" tvg-logo="http://hfm.tn:5001/image/chn?id=264" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-5-SD
+http://free24ip.xyz:25461/27291618105053/123/319
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS Low_6" tvg-logo="http://hfm.tn:5001/image/chn?id=265" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS Low_6
+http://free24ip.xyz:25461/27291618105053/123/312
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-6-SD" tvg-logo="http://hfm.tn:5001/image/chn?id=265" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-6-SD
+http://free24ip.xyz:25461/27291618105053/123/320
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS Low_7" tvg-logo="http://hfm.tn:5001/image/chn?id=266" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS Low_7
+http://free24ip.xyz:25461/27291618105053/123/313
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-7-SD" tvg-logo="http://hfm.tn:5001/image/chn?id=266" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-7-SD
+http://free24ip.xyz:25461/27291618105053/123/321
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-6 HD" tvg-logo="https://image.ibb.co/eqzJRe/hd1.png" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-6 HD
+http://free24ip.xyz:25461/27291618105053/123/297
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-7 HD" tvg-logo="https://image.ibb.co/f4m9XK/2.png" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-7 HD
+http://free24ip.xyz:25461/27291618105053/123/298
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-1 HD premium" tvg-logo="https://image.ibb.co/cRk8Re/3.png" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-1 HD premium
+http://free24ip.xyz:25461/27291618105053/123/299
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-2 HD premium" tvg-logo="https://image.ibb.co/eE64zz/4.png" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-2 HD premium
+http://free24ip.xyz:25461/27291618105053/123/300
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-3 HD premium" tvg-logo="https://image.ibb.co/jRvKXK/5.png" group-title="Bein_Sports_رياضية ",AR:BEINSPORTS-3 HD premium
+http://free24ip.xyz:25461/27291618105053/123/301
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS-1 HD" tvg-logo="https://image.ibb.co/jc1bCK/6.png" group-title="Bein_Sports_رياضية ",BEINSPORTS-1 HD
+http://free24ip.xyz:25461/27291618105053/123/302
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS-2 HD" tvg-logo="https://image.ibb.co/mqMZXK/7.png" group-title="Bein_Sports_رياضية ",BEINSPORTS-2 HD
+http://free24ip.xyz:25461/27291618105053/123/303
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS-3 HD" tvg-logo="https://image.ibb.co/hWJ3Re/8.png" group-title="Bein_Sports_رياضية ",BEINSPORTS-3 HD
+http://free24ip.xyz:25461/27291618105053/123/304
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS-4 HD" tvg-logo="https://image.ibb.co/fO6ORe/9.png" group-title="Bein_Sports_رياضية ",BEINSPORTS-4 HD
+http://free24ip.xyz:25461/27291618105053/123/305
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS-5 HD" tvg-logo="https://image.ibb.co/kYA8Re/10.png" group-title="Bein_Sports_رياضية ",BEINSPORTS-5 HD
+http://free24ip.xyz:25461/27291618105053/123/306
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS 1 HD" tvg-logo="" group-title="France Sports TV",FR | BeIN SPORTS 1 HD
+http://free24ip.xyz:25461/27291618105053/123/9444
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS 2 HD" tvg-logo="" group-title="France Sports TV",FR | BeIN SPORTS 2 HD
+http://free24ip.xyz:25461/27291618105053/123/9445
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS 3 HD" tvg-logo="" group-title="France Sports TV",FR | BeIN SPORTS 3 HD
+http://free24ip.xyz:25461/27291618105053/123/9446
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS MAX 4" tvg-logo="" group-title="France Sports TV",FR | BeIN SPORTS MAX 4
+http://free24ip.xyz:25461/27291618105053/123/9447
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS MAX 5" tvg-logo="" group-title="France Sports TV",FR | BeIN SPORTS MAX 5
+http://free24ip.xyz:25461/27291618105053/123/9448
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS MAX 6" tvg-logo="" group-title="France Sports TV",FR | BeIN SPORTS MAX 6
+http://free24ip.xyz:25461/27291618105053/123/9449
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS MAX 7" tvg-logo="" group-title="France Sports TV",FR | BeIN SPORTS MAX 7
+http://free24ip.xyz:25461/27291618105053/123/9450
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS MAX 8" tvg-logo="" group-title="France Sports TV",FR | BeIN SPORTS MAX 8
+http://free24ip.xyz:25461/27291618105053/123/9451
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS MAX 9" tvg-logo="" group-title="France Sports TV",FR | BeIN SPORTS MAX 9
+http://free24ip.xyz:25461/27291618105053/123/9452
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS MAX 10" tvg-logo="" group-title="France Sports TV",FR | BeIN SPORTS MAX 10
+http://free24ip.xyz:25461/27291618105053/123/9453
+#EXTINF:-1 tvg-id="" tvg-name="FR_Eurosport 1 HD" tvg-logo="" group-title="France Sports TV",FR_Eurosport 1 HD
+http://free24ip.xyz:25461/27291618105053/123/9454
+#EXTINF:-1 tvg-id="" tvg-name="FR_Eurosport 2 HD" tvg-logo="" group-title="France Sports TV",FR_Eurosport 2 HD
+http://free24ip.xyz:25461/27291618105053/123/9455
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL + Sport Full HD" tvg-logo="" group-title="France Sports TV",FR | CANAL + Sport Full HD
+http://free24ip.xyz:25461/27291618105053/123/9456
+#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL+ SPORT HD" tvg-logo="" group-title="France Sports TV",FR | CANAL+ SPORT HD
+http://free24ip.xyz:25461/27291618105053/123/9457
+#EXTINF:-1 tvg-id="" tvg-name="FR_CANAL + SPORT_SD" tvg-logo="" group-title="France Sports TV",FR_CANAL + SPORT_SD
+http://free24ip.xyz:25461/27291618105053/123/9458
+#EXTINF:-1 tvg-id="" tvg-name="FR_FOOT 24/24 Full-HD" tvg-logo="" group-title="France Sports TV",FR_FOOT 24/24 Full-HD
+http://free24ip.xyz:25461/27291618105053/123/9459
+#EXTINF:-1 tvg-id="" tvg-name="FR | FOOT 24/24 HD" tvg-logo="" group-title="France Sports TV",FR | FOOT 24/24 HD
+http://free24ip.xyz:25461/27291618105053/123/9460
+#EXTINF:-1 tvg-id="" tvg-name="FR_INFOSPOR Full-HD" tvg-logo="" group-title="France Sports TV",FR_INFOSPOR Full-HD
+http://free24ip.xyz:25461/27291618105053/123/9461
+#EXTINF:-1 tvg-id="" tvg-name="FR_INFOSPOR HD" tvg-logo="" group-title="France Sports TV",FR_INFOSPOR HD
+http://free24ip.xyz:25461/27291618105053/123/9462
+#EXTINF:-1 tvg-id="" tvg-name="DE,World Of Free Sports TV" tvg-logo="" group-title="DEUTSCH ",DE,World Of Free Sports TV
+http://free24ip.xyz:25461/27291618105053/123/9420
+#EXTINF:-1 tvg-id="" tvg-name="TR, Afyon Turk TV" tvg-logo="" group-title="TURKEY",TR, Afyon Turk TV
+http://free24ip.xyz:25461/27291618105053/123/9219
+#EXTINF:-1 tvg-id="" tvg-name="SP | AD Sport 1 HD" tvg-logo="https://i.ibb.co/zH8Fb0H/a815.png" group-title="Khaliji Sports",SP | AD Sport 1 HD
+http://free24ip.xyz:25461/27291618105053/123/8766
+#EXTINF:-1 tvg-id="" tvg-name="SP | AD Sport 2 HD" tvg-logo="https://i.ibb.co/F3NC0Gt/a667.png" group-title="Khaliji Sports",SP | AD Sport 2 HD
+http://free24ip.xyz:25461/27291618105053/123/8767
+#EXTINF:-1 tvg-id="" tvg-name="SP | AD Sport 3 HD" tvg-logo="https://i.ibb.co/pbsj5jP/a429.png" group-title="Khaliji Sports",SP | AD Sport 3 HD
+http://free24ip.xyz:25461/27291618105053/123/8768
+#EXTINF:-1 tvg-id="" tvg-name="SP | AD Sport 4 HD" tvg-logo="https://i.ibb.co/wWhKp8q/a430.png" group-title="Khaliji Sports",SP | AD Sport 4 HD
+http://free24ip.xyz:25461/27291618105053/123/8769
+#EXTINF:-1 tvg-id="" tvg-name="SP | AD YAS Sports HD" tvg-logo="https://i.ibb.co/sQXXXy5/yas-sports-ae.png" group-title="Khaliji Sports",SP | AD YAS Sports HD
+http://free24ip.xyz:25461/27291618105053/123/8770
+#EXTINF:-1 tvg-id="" tvg-name="SP | Al Kass Sports 1 HD" tvg-logo="https://i.ibb.co/f81DLG2/a743.png" group-title="Khaliji Sports",SP | Al Kass Sports 1 HD
+http://free24ip.xyz:25461/27291618105053/123/8771
+#EXTINF:-1 tvg-id="" tvg-name="SP | Al Kass Sports 2 HD" tvg-logo="https://i.ibb.co/ynwkpHs/a744.png" group-title="Khaliji Sports",SP | Al Kass Sports 2 HD
+http://free24ip.xyz:25461/27291618105053/123/8772
+#EXTINF:-1 tvg-id="" tvg-name="SP | Al Kass Sports 3 HD" tvg-logo="https://i.ibb.co/3BDcdjy/a745.png" group-title="Khaliji Sports",SP | Al Kass Sports 3 HD
+http://free24ip.xyz:25461/27291618105053/123/8773
+#EXTINF:-1 tvg-id="" tvg-name="SP | Al Kass Sports 5 HD" tvg-logo="https://i.ibb.co/TmswYtf/a747.png" group-title="Khaliji Sports",SP | Al Kass Sports 5 HD
+http://free24ip.xyz:25461/27291618105053/123/8774
+#EXTINF:-1 tvg-id="" tvg-name="SP | Al Sharjah Sport HD" tvg-logo="https://i.ibb.co/RTmPYHC/sharjah-sports-tv.png" group-title="Khaliji Sports",SP | Al Sharjah Sport HD
+http://free24ip.xyz:25461/27291618105053/123/8775
+#EXTINF:-1 tvg-id="" tvg-name="SP | KSA Sport 1 HD" tvg-logo="https://i.ibb.co/x2TCTqs/ksa-sports-sa.png" group-title="Khaliji Sports",SP | KSA Sport 1 HD
+http://free24ip.xyz:25461/27291618105053/123/8776
+#EXTINF:-1 tvg-id="" tvg-name="SP |  KSA Sport 2 HD" tvg-logo="https://i.ibb.co/j9KGLZj/ksa-sports-sa.png" group-title="Khaliji Sports",SP |  KSA Sport 2 HD
+http://free24ip.xyz:25461/27291618105053/123/8777
+#EXTINF:-1 tvg-id="" tvg-name="SP | KSA SPORTS 3 HD" tvg-logo="https://i.ibb.co/x2TCTqs/ksa-sports-sa.png" group-title="Khaliji Sports",SP | KSA SPORTS 3 HD
+http://free24ip.xyz:25461/27291618105053/123/8778
+#EXTINF:-1 tvg-id="" tvg-name="SP | Dubai Sports 1 HD" tvg-logo="https://i.ibb.co/xDB44dT/dubaisports1-live.png" group-title="Khaliji Sports",SP | Dubai Sports 1 HD
+http://free24ip.xyz:25461/27291618105053/123/8779
+#EXTINF:-1 tvg-id="" tvg-name="SP | Dubai Sport 2 HD" tvg-logo="https://i.ibb.co/Tm0nSLK/dubaisports2-live.png" group-title="Khaliji Sports",SP | Dubai Sport 2 HD
+http://free24ip.xyz:25461/27291618105053/123/8780
+#EXTINF:-1 tvg-id="" tvg-name="SP | Dubai Sport 3 HD" tvg-logo="https://i.ibb.co/PTxdhbN/dubaisports3-live.png" group-title="Khaliji Sports",SP | Dubai Sport 3 HD
+http://free24ip.xyz:25461/27291618105053/123/8781
+#EXTINF:-1 tvg-id="" tvg-name="SP | Oman Sports HD" tvg-logo="https://i.ibb.co/bg2Ghx9/oman-tv-sport.png" group-title="Khaliji Sports",SP | Oman Sports HD
+http://free24ip.xyz:25461/27291618105053/123/8782
+#EXTINF:-1 tvg-id="" tvg-name="SP | Kuwait Sport HD" tvg-logo="https://i.ibb.co/JQgVGWw/ktv-sport.png" group-title="Khaliji Sports",SP | Kuwait Sport HD
+http://free24ip.xyz:25461/27291618105053/123/8783
