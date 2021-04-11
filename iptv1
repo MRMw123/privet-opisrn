@@ -1,23 +1,30 @@
-#EXTM3U
-#EXTINF:-1,*** SERVER DMTN-IPTV ***
-http://dmtn.tv:8080/GVl4fGzfjp/WDP0gFnOO2/11499
-#EXTINF:-1,beIN SPORTS NEWS FHD
-http://dmtn.tv:8080/GVl4fGzfjp/WDP0gFnOO2/104712
-#EXTINF:-1,beIN SPORTS 1 HD (1080i)
-http://dmtn.tv:8080/GVl4fGzfjp/WDP0gFnOO2/78402
-#EXTINF:-1,beIN SPORTS 2 HD (1080i)
-http://dmtn.tv:8080/GVl4fGzfjp/WDP0gFnOO2/78399
-#EXTINF:-1,beIN SPORTS 3 HD (1080i)
-http://dmtn.tv:8080/GVl4fGzfjp/WDP0gFnOO2/78396
-#EXTINF:-1,beIN SPORTS 4 HD (1080i)
-http://dmtn.tv:8080/GVl4fGzfjp/WDP0gFnOO2/78393
-#EXTINF:-1,beIN SPORTS 5 HD (1080i)
-http://dmtn.tv:8080/GVl4fGzfjp/WDP0gFnOO2/78390
-#EXTINF:-1,beIN SPORTS 6 HD (1080i)
-http://dmtn.tv:8080/GVl4fGzfjp/WDP0gFnOO2/78387
-#EXTINF:-1,beIN SPORTS 7 HD (1080i)
-http://dmtn.tv:8080/GVl4fGzfjp/WDP0gFnOO2/78384
-#EXTINF:-1,beIN SPORTS 8 HD (1080i)
-http://dmtn.tv:8080/GVl4fGzfjp/WDP0gFnOO2/78381
-#EXTINF:-1,beIN SPORTS 9 HD (1080i)
-http://dmtn.tv:8080/GVl4fGzfjp/WDP0gFnOO2/78378
+#EXTINF:-1,Egypt
+https://pasteli.org/download/YkxMunt5as
+#EXTINF:-1,Sudan
+https://pasteli.org/download/WPxZOdR9Hd
+#EXTINF:-1,Saudi Arabia
+https://pasteli.org/download/KO32cfQoCw
+#EXTINF:-1,Tunisia
+https://pasteli.org/download/VAaNzWtEkh
+#EXTINF:-1,Iraq
+https://pasteli.org/download/1iBopHocdN
+#EXTINF:-1,Syria
+https://pasteli.org/download/ROTRaf19MR
+#EXTINF:-1,Yemen
+https://pasteli.org/download/xaWkkNgEh1
+#EXTINF:-1,Jordan
+https://pasteli.org/download/5b2kdPi7r4
+#EXTINF:-1,United Arab Emirates
+https://pasteli.org/download/VrZlY6i8yA
+#EXTINF:-1,Lebanon
+https://pasteli.org/download/wPTO0v3Ft6
+#EXTINF:-1,Kuwait
+https://pasteli.org/download/BSqhWXqTeY
+#EXTINF:-1,Oman
+https://pasteli.org/download/GwQiimpk0U
+#EXTINF:-1,Qatar
+https://pasteli.org/download/uhOcLksqAm
+#EXTINF:-1,Bahrain
+https://pasteli.org/download/UEVp5J1v52
+#EXTINF:-1,Palestine
+https://pasteli.org/download/P0x9PHuGx4
