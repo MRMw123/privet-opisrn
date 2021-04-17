@@ -850,4 +850,220 @@ http://82.212.74.98:8000/live/7815.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="",Sudan TV
 https://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
-
+#EXTM3U
+#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - BEINSPORTS 3 HD
+http://ottin.me:8000/salam_000946/ImHfNpi5/106517
+#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - |BEIN| BEIN 1 HEVC
+http://ottin.me:8000/salam_000946/ImHfNpi5/106543
+#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - |BEIN| BEIN 5 HEVC
+http://ottin.me:8000/salam_000946/ImHfNpi5/106547
+#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - BEIN SPORTS 1 SD
+http://ottin.me:8000/salam_000946/ImHfNpi5/106572
+#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - BEIN SPORTS 3 SD
+http://ottin.me:8000/salam_000946/ImHfNpi5/106574
+#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - BEIN SPORTS 6 SD
+http://ottin.me:8000/salam_000946/ImHfNpi5/106577
+#EXTINF:-1 ,ahlakid.com - SPORTV SD ALT
+http://vipeiptv.com:25461/genesio123/genesio123/856231
+#EXTINF:-1 ,ahlakid.com - SPORTV HD
+http://vipeiptv.com:25461/genesio123/genesio123/856232
+#EXTINF:-1 ,ahlakid.com - SPORTV HD ALT_ CREATED BY  : ahlakid.com
+http://vipeiptv.com:25461/genesio123/genesio123/856233
+#EXTINF:-1 ,ahlakid.com - SPORTV 2 HD_ CREATED BY  : ahlakid.com
+http://vipeiptv.com:25461/genesio123/genesio123/856238
+#EXTINF:-1 ,ahlakid.com - SPORTV 3 SD ALT
+http://vipeiptv.com:25461/genesio123/genesio123/856243
+#EXTINF:-1 ,ahlakid.com - Abu Dhabi Sports_Website : ahlakid.com
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 ,ahlakid.com - Abu Dhabi Sports 2_Website : ahlakid.com
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 ,ahlakid.com - Abu Dhabi Sports 3_Website : ahlakid.com
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 ,ahlakid.com - Abu Dhabi Sports 4_Website : ahlakid.com
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 ,ahlakid.com - Abu Dhabi Sports 5_Website : ahlakid.com
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 ,ahlakid.com - Abu Dhabi Sports 6_Website : ahlakid.com
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/Kxem8ae.jpg",ahlakid.com - Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/1M4zMdC.png",ahlakid.com - Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/1M4zMdC.png",ahlakid.com - Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - EUROSPORT 1
+http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - МАТЧ! НАШ СПОРТ
+http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Матч!
+http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Матч! Арена
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Eurosport 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7qSbS53.png",ahlakid.com - Telecaribe Deportes
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7qSbS53.png",ahlakid.com - Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg",ahlakid.com - Rai Sport
+https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport;Undefined",ahlakid.com - Al Kass Two
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport;Undefined",ahlakid.com - Al Kass Five
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - DUBAI SPORTS 1 (1920×1080)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/KDHJryj.png",ahlakid.com - SPORT | Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - DUBAI SPORTS 3 (1920×1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/yaWTUE6.png",ahlakid.com - SPORT | Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://iili.io/JAQcPe.png",ahlakid.com - SPORTS TV [HD]
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg",ahlakid.com - Türkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Eurosport 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://reporter.odessa.ua/wp-content/uploads/2017/05/logo_retina-300x99.png",ahlakid.com - Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Abu Dabi Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Abu Dabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",ahlakid.com - Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png",ahlakid.com - Al Kass Спортs 1 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Astro SuperSport 1
+http://iptvtree.net:8080/13354/27c12697/157559?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png",ahlakid.com - Claro Sports
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - GOLF NETWORK
+http://203.162.235.41:16924?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1200px-Rai_Sport_-_Logo_2017.svg.png",ahlakid.com - Rai Sport (Geo)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/Rai_Sport_HD_new_logo.svg.png",ahlakid.com - Rai Sport+ (Geo)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",ahlakid.com - Red Bull TV
+http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",ahlakid.com - Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",ahlakid.com - Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",ahlakid.com - Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",ahlakid.com - Red Bull TV
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",ahlakid.com - Red Bull TV
+https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",ahlakid.com - SPORT | Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",ahlakid.com - Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/8ZFQ93Z.png",ahlakid.com - SPORT | ATG TV
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/jo3XekR.png",ahlakid.com - SPORT | Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg",ahlakid.com - SPORT | Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/b6tcf2i.jpg",ahlakid.com - SPORT | FC Bayern Munchen TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/2msWdzQ.jpg",ahlakid.com - SPORT | Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/oDOpMph.png",ahlakid.com - SPORT | MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/s5NcNef.png",ahlakid.com - SPORT | MMA Junkie
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/dIzAmT0.png",ahlakid.com - SPORT | Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/HZp8PAw.png",ahlakid.com - SPORT | Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/xVgXmS2.jpg",ahlakid.com - SPORT | Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/4FGVDqV.jpg",ahlakid.com - SPORT | Turkmenistan Sport
+http://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/pggeczF.jpg",ahlakid.com - SPORT | World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/Nus9e8M.jpg",ahlakid.com - SPORT | World Poker Tour
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Setanta Sports +
+http://195.158.29.129/live_360/live.stream+_360p.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Setanta Sports HD
+http://myott.tv/stream/E9LYLBWT7X/234.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - TeleCaribe Deportes 2
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/1296k/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - UFC ТВ HD
+http://live-ng-01.more.tv/hls/UFC/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Viasat Sport
+http://live-ng-01.more.tv/hls/Viasat_Sport_HD/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Матч! ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - ТРК Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Фан Спорт.
+https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Abu Dhabi Sports1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/U6XDpXY.png",ahlakid.com - Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/8VqomZ5.png",ahlakid.com - Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport;Undefined" tvg-logo="https://parco-zh.github.io/demo/DIBAI.png",ahlakid.com - 迪拜赛车俱乐部
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/eytrf0Y.png",ahlakid.com - SPORT | Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport;Undefined",ahlakid.com - 迪拜赛马俱乐部
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/eytrf0Y.png",ahlakid.com - Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/iYgHR5D.png",ahlakid.com - Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/iYgHR5D.png",ahlakid.com - Dubai Sports 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/qBdOZ1x.png",ahlakid.com - Dubai Sports 2
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg",ahlakid.com - Dubai Sports 3
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/SAfy1us.png",ahlakid.com - US | STIRR Sports
+https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg",ahlakid.com - Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Sharjah Sport
+http://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Матч! (Резерв2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - НТВ+ Спорт
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?checkedby:ahlakid.com
