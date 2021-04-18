@@ -1,0 +1,2169 @@
+#EXTM3U
+#EXTINF:-1 ,****http://zero2.site****
+http://zero2.site:8080/zero/zero/1
+#EXTINF:-1 ,TR: zero2.site
+http://zero2.site:8080/zero/zero/2
+#EXTINF:-1 ,TR: beIN SPORTS 1 FHD
+http://zero2.site:8080/zero/zero/3
+#EXTINF:-1 ,TR: beIN SPORTS 1 HD
+http://zero2.site:8080/zero/zero/4
+#EXTINF:-1 ,TR: TRT 1 UHD
+http://zero2.site:8080/zero/zero/5
+#EXTINF:-1 ,TR: ATV UHD
+http://zero2.site:8080/zero/zero/6
+#EXTINF:-1 ,TR: FOX UHD
+http://zero2.site:8080/zero/zero/7
+#EXTINF:-1 ,TR: TV8 UHD
+http://zero2.site:8080/zero/zero/8
+#EXTINF:-1 ,TR: SHOW TV UHD
+http://zero2.site:8080/zero/zero/9
+#EXTINF:-1 ,TR: STAR TV UHD
+http://zero2.site:8080/zero/zero/10
+#EXTINF:-1 ,TR: KANALD UHD
+http://zero2.site:8080/zero/zero/11
+#EXTINF:-1 ,TR: BEYAZTV HD
+http://zero2.site:8080/zero/zero/12
+#EXTINF:-1 ,TR: TEVE 2 HD
+http://zero2.site:8080/zero/zero/14
+#EXTINF:-1 ,TR: TV 8.5 HD
+http://zero2.site:8080/zero/zero/13
+#EXTINF:-1 ,TR: 360 TV HD
+http://zero2.site:8080/zero/zero/15
+#EXTINF:-1 ,TR: UCAN KUS
+http://zero2.site:8080/zero/zero/16
+#EXTINF:-1 ,TR: TRT BELGESEL
+http://zero2.site:8080/zero/zero/17
+#EXTINF:-1 ,TR: DMAX TV
+http://zero2.site:8080/zero/zero/18
+#EXTINF:-1 ,TR: TLC TV
+http://zero2.site:8080/zero/zero/19
+#EXTINF:-1 ,TR: KRALTV HD
+http://zero2.site:8080/zero/zero/20
+#EXTINF:-1 ,TR: KRALPOP TV
+http://zero2.site:8080/zero/zero/21
+#EXTINF:-1 ,TR: NATIONAL GEOGRAPHIC
+http://zero2.site:8080/zero/zero/22
+#EXTINF:-1 ,TR: NAT GEO WILD HD
+http://zero2.site:8080/zero/zero/23
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,ATV HD
+https://xxx.buneamkya.xyz/72fe9bb58e02e669273c902c1f48f501/162/v.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_kanal7/kanal7_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/chunklist_w1913354693_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_power/smil:power_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,GalatasarayTV HD
+http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist-b2328000_sltur.m3u8
+#EXTINF:-1 ,Turkey: Dmax
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:-1 ,Turkey: YabanTV HD
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1 ,Turkey: ÇiftçiTV HD
+http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:-1 ,Turkey: KöyTV HD
+https://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8
+#EXTINF:-1 ,Turkey: TLC TV HD
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist-uf4prudfc_b2328000_sltur.m3u8
+#EXTINF:-1 ,BeIN SPORT 2 HD
+https://xxx.buneamkya.xyz//72fe9bb58e02e669273c902c1f48f501/602/v.m3u8
+#EXTINF:-1 ,BeIN SPORT 3 HD
+https://xxx.buneamkya.xyz//72fe9bb58e02e669273c902c1f48f501/603/v.m3u8
+#EXTINF:-1 ,BeIN SPORT 4 HD
+https://xxx.buneamkya.xyz//72fe9bb58e02e669273c902c1f48f501/604/v.m3u8
+#EXTINF:-1 ,BeIN Max 1 HD
+https://xxx.buneamkya.xyz//72fe9bb58e02e669273c902c1f48f501/805/v.m3u8
+#EXTINF:-1 ,BeIN Max 2 HD
+https://xxx.buneamkya.xyz//72fe9bb58e02e669273c902c1f48f501/806/v.m3u8
+#EXTINF:-1 ,BeIN SPORT 1 HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/selcukbein1/naxi/caxi.m3u8
+#EXTINF:-1 ,BeIN SPORT 2 HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/25/naxi/caxi.m3u8
+#EXTINF:-1 ,BeIN SPORT 3 HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/26/naxi/caxi.m3u8
+#EXTINF:-1 ,BeIN SPORT MAX 1 HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/28/naxi/caxi.m3u8
+#EXTINF:-1 ,BeIN SPORT MAX 2 HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/29/naxi/caxi.m3u8
+#EXTINF:-1 ,Yesilcam Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/31.ts
+#EXTINF:-1 ,Yesilcam (Kemal Sunal) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/32.ts
+#EXTINF:-1 ,Yesilcam (Ayhan Isik) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/33.ts
+#EXTINF:-1 ,Yesilcam (Cuneyt Arkin) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/34.ts
+#EXTINF:-1 ,Yesilcam (Sener Sen) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/35.ts
+#EXTINF:-1 ,Yesilcam (Erol Tas) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/37.ts
+#EXTINF:-1 ,Yesilcam (Fatma Girik) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/38.ts
+#EXTINF:-1 ,Yesilcam (Filiz Akin) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/39.ts
+#EXTINF:-1 ,Yesilcam (Hulya Kocyigit) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/42.ts
+#EXTINF:-1 ,Yesilcam (Ilyas Salman) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/43.ts
+#EXTINF:-1 ,Yesilcam (Kadir inanir) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/44.ts
+#EXTINF:-1 ,Yesilcam (Kazim Kartal) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/45.ts
+#EXTINF:-1 ,Yesilcam (Metin & Zeki) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/46.ts
+#EXTINF:-1 ,Yesilcam (Munir ozkul) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/47.ts
+#EXTINF:-1 ,Yesilcam (Tarik Akan) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/48.ts
+#EXTINF:-1 ,Yesilcam (Turkan Soray) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/49.ts
+#EXTINF:-1 ,Yesilcam (Yilmaz Guney) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/50.ts
+#EXTINF:-1 ,Beyaz Perde (Yerli Komedi) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/53.ts
+#EXTINF:-1 ,Yerli Dram Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/54.ts
+#EXTINF:-1 ,TRB- OltaTV
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/55.ts
+#EXTINF:-1 ,Kemal Sunal Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/58.ts
+#EXTINF:-1 ,Orhan Gencebay Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/67.ts
+#EXTINF:-1 ,Ferdi Tayfur Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/68.ts
+#EXTINF:-1 ,Belgesel Tarih Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/69.ts
+#EXTINF:-1 ,Beyaz Perde (Komedi) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/82.ts
+#EXTINF:-1 ,Beyaz Perde (Yerli Sinama) Tv
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/83.ts
+#EXTINF:-1 ,BBC Earth HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/6/naxi/caxi.m3u8
+#EXTINF:-1 ,Bein Gurme HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/10/naxi/caxi.m3u8
+#EXTINF:-1 ,Bein Haber HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/11/naxi/caxi.m3u8
+#EXTINF:-1 ,Bein Iz HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/12/naxi/caxi.m3u8
+#EXTINF:-1 ,Bein Action 1 HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/13/naxi/caxi.m3u8
+#EXTINF:-1 ,beIN MOVIES FAMILY HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/15/naxi/caxi.m3u8
+#EXTINF:-1 ,Bein Max HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/16/naxi/caxi.m3u8
+#EXTINF:-1 ,Movies Smart Premium HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/17/naxi/caxi.m3u8
+#EXTINF:-1 ,Bein Movies Stars HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/18/naxi/caxi.m3u8
+#EXTINF:-1 ,Bein Türk HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/19/naxi/caxi.m3u8
+#EXTINF:-1 ,beIN SERIES COMEDY HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/20/naxi/caxi.m3u8
+#EXTINF:-1 ,beIN SERIES SCI-FI HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/22/naxi/caxi.m3u8
+#EXTINF:-1 ,beIN SERIES VICE HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/23/naxi/caxi.m3u8
+#EXTINF:-1 ,DISCOVERY SCIENCE HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/33/naxi/caxi.m3u8
+#EXTINF:-1 ,Bein Drama HD
+https://srvccc.buneamkya.xyz/kaynakstreamradarco/21/naxi/caxi.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/133/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/14/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/177/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/15/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/18/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/16/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/21/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/62/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/41/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/42/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/43/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/44/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/45/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/46/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/47/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/48/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/60/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/58/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/59/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/50/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/51/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/52/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/55/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/56/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/57/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/24/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/49/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/23/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/22/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/61/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/63/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/53/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/37/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/38/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/20/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/34/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/35/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/39/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=exoplayer-codelab
+http://sikimsonikisler.hlsrectv.online/19/index.m3u8
+#EXTINF:-1 ,Star TV HD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,Showmax 720
+http://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8
+#EXTINF:-1 ,TRT 1
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 ,TRT AVAZ
+https://tv-trtavaz.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 ,TV EM
+https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:-1 ,EUROSTAR TV
+http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,ON4 TV
+http://yayin.netradyom.com:1935/live/on4/playist.m3u8
+#EXTINF:-1 ,TRT HABER alt2
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 ,Akit TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 ,TRT TÜRK
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 ,Haber 61 TV
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/iptvdelisi.m3u8
+#EXTINF:-1 ,Tele 1
+http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
+#EXTINF:-1 ,KRT (FHD)
+http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
+#EXTINF:-1 ,Ulusal Kanal (720)
+http://iptvmasterlink.dyndns.org:5566/Entry/ulusalkanal_yeni.m3u8
+#EXTINF:-1 ,ON Medya Haber
+http://live.arkumedia.com:1935/marmaratv/marmaratv/chunklist.m3u8
+#EXTINF:-1 ,ON4 TV
+http://yayin.netradyom.com:1935/live/on4/chunklist.m3u8
+#EXTINF:-1 ,REHBER TV
+http://rehbertv.canliyayin.org/P871000884/rehbertv/chunklist.m3u8
+#EXTINF:-1 ,Finanstürk TV
+http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
+#EXTINF:-1 ,KUDÜS TV
+https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8
+#EXTINF:-1 ,AA Live
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
+#EXTINF:-1 ,GS TV Galatasaray
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 ,Sports TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 ,Briç ve Satranç TV
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 ,KRAL TV HD
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 ,KRAL POP HD
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 ,POWER TV alt2
+https://waw2.artiyerelmedya.net/powertv/bant1/playlist.m3u8
+#EXTINF:-1 ,POWERTÜRK TV alt2
+https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:-1 ,Radyo Kulüp
+http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
+#EXTINF:-1 ,Damar TV
+http://51.255.7.18:8080/hls/damar.m3u8
+#EXTINF:-1 ,LALEGÜL TV
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 ,Mesaj TV
+https://waw2.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
+#EXTINF:-1 ,Çiftçi TV
+https://waw2.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8
+#EXTINF:-1 ,DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.sltur.m3u8
+#EXTINF:-1 ,TLC Türkiye
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.ltur.m3u8
+#EXTINF:-1 ,TRT Çocuk
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 ,Brüksel Türk TV
+http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8
+#EXTINF:-1 ,BLUTV Aksiyon
+https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
+#EXTINF:-1 ,BLUTV KOMEDI
+https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+#EXTINF:-1 ,NHT TV
+http://nhttv22.nhttv.com:29020/nhttv/nhttv/playlist.m3u8
+#EXTINF:-1 ,BRT 1 FHD
+http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
+#EXTINF:-1 ,BRT 2 FHD
+http://kuzeykibris.tv/m3u8/tv_brt2.m3u8
+#EXTINF:-1 ,Kanal T FHD
+http://kuzeykibris.tv/m3u8/tv_kanalt.m3u8
+#EXTINF:-1 ,Kibris TV
+http://kuzeykibris.tv/m3u8/tv_ktv.m3u8
+#EXTINF:-1 ,Kibris TV
+https://play.kibrisfm.com/hls/canli1.m3u8
+#EXTINF:-1 ,Genç TV
+http://kuzeykibris.tv/m3u8/tv_genc.m3u8
+#EXTINF:-1 ,TV 2020
+http://kuzeykibris.tv/m3u8/tv_dialog.m3u8
+#EXTINF:-1 ,Sim TV
+http://kuzeykibris.tv/m3u8/tv_sim.m3u8
+#EXTINF:-1 ,Ada TV
+http://kuzeykibris.tv/m3u8/tv_ada.m3u8
+#EXTINF:-1 ,AKSU TV
+https://waw2.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
+#EXTINF:-1 ,ALANYA ATV
+https://broadcasttr.com:446/alanyatv/bant1/chunklist.m3u8
+#EXTINF:-1 ,Alanya Posta TV
+http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
+#EXTINF:-1 ,Berat TV
+http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
+#EXTINF:-1 ,Bizim Atürk TV
+https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
+#EXTINF:-1 ,Bodrum Belediyesi Web TV
+https://win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/chunklist.m3u8
+#EXTINF:-1 ,Bursa AS TV
+https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
+#EXTINF:-1 ,ÇANAKKALE TON TV
+https://waw2.artiyerelmedya.net/tontv/bant1/playlist.m3u8
+#EXTINF:-1 ,ÇAY TV
+http://stream2.taksimbilisim.com:1935/caytv/smil:caytv.smil/iptvdelisi.m3u8
+#EXTINF:-1 ,Deniz Haber TV
+https://s01.vpis.io/denizhaber/denizhaber.m3u8
+#EXTINF:-1 ,Dersim 62 TV
+http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
+#EXTINF:-1 ,DIM TV Alanya
+https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
+#EXTINF:-1 ,DRT DENIZLI
+http://stream2.taksimbilisim.com:1935/drt/smil:drt.smil/iptvdelisi.m3u8
+#EXTINF:-1 ,Ege TV
+https://waw1.artiyerelmedya.net/egetv/bant1/playlist.m3u8
+#EXTINF:-1 ,Finest TV
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 ,FTV Türk
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 ,KANAL 3
+http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/iptvdelisi.m3u8
+#EXTINF:-1 ,KANAL 15
+https://waw2.artiyerelmedya.net/kanal15/bant1/chunks.m3u8
+#EXTINF:-1 ,KANAL 23
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/playlist.m3u8
+#EXTINF:-1 ,KANAL 33 alt.
+http://stream.taksimbilisim.com:1935/kanal33/bant1/chunklist.m3u8
+#EXTINF:-1 ,KANAL 34
+http://live.arkumedia.com:1935/kanal34tv/kanal34tv/chunklist.m3u8
+#EXTINF:-1 ,KANAL 34 alt.
+https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/chunklist.m3u8
+#EXTINF:-1 ,KANAL 68
+https://waw2.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
+#EXTINF:-1 ,KANAL 101
+http://s01.vpis.io/kanal101/kanal101.m3u8
+#EXTINF:-1 ,Kanal Artvin
+https://5be5d840359c6.streamlock.net/kanalartvin/kanalartvin/chunklist.m3u8
+#EXTINF:-1 ,KANAL B
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1 ,KANAL FIRAT
+https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
+#EXTINF:-1 ,KANAL Z
+https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
+#EXTINF:-1 ,Kardelen TV
+http://cdn1.streamencoding.com:1935/kardelen_live/HD/playlist.m3u8
+#EXTINF:-1 ,LINE TV
+https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
+#EXTINF:-1 ,MC EU TV
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 ,OGÜN TV
+https://s01.vpis.io/ogun/ogun.m3u8
+#EXTINF:-1 ,ÖNCÜ TV
+https://broadcasttr.com:446/oncurtv/bant1/playlist.m3u8
+#EXTINF:-1 ,Royal TV
+http://source2.primetime.ch:2981/play/royaltv/index.m3u8
+#EXTINF:-1 ,Sakarya TV
+http://s01.vpis.io/sakaryatelevizyonu/sakaryatelevizyonu.m3u8
+#EXTINF:-1 ,Sariyer TV
+http://s01.vpis.io/sariyer/sariyer.m3u8
+#EXTINF:-1 ,Sinop Yildiz TV
+http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+#EXTINF:-1 ,TRT Eba TV Ortaokul
+https://tv-e-okul01.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 ,TRT Eba TV Lise
+https://tv-e-okul02.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 ,TRT KURDI
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 ,TV A
+http://broadcasttr.com:1935/tva/bant1/iptvdelisi.m3u8
+#EXTINF:-1 ,TV 41
+https://waw1.artiyerelmedya.net/tv41/bant1/chunks.m3u8
+#EXTINF:-1 ,TV 52
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/iptvdelisi.m3u8
+#EXTINF:-1 ,TV 52 alt2
+https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
+#EXTINF:-1 ,TV DEN
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 ,Üniversite TV
+https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
+#EXTINF:-1 ,ÜÜ TV Üsküdar Üniversitesi TV
+http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/iptvdelisi.m3u8
+#EXTINF:-1 ,VIZYON 58 TV
+https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
+#EXTINF:-1 ,TR| ATV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33801
+#EXTINF:-1 ,TR| A HABER
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33802
+#EXTINF:-1 ,TR| KANAL D
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33803
+#EXTINF:-1 ,TR| STAR TV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33804
+#EXTINF:-1 ,TR| SHOW TV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33805
+#EXTINF:-1 ,TR| TRT 1
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33806
+#EXTINF:-1 ,TR| TRT AVAZ
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33807
+#EXTINF:-1 ,TR| TRT BELGESEL
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33808
+#EXTINF:-1 ,TR| TRT COCUK
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33809
+#EXTINF:-1 ,TR| TRT DIYANET
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33810
+#EXTINF:-1 ,TR| TRT HABER
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33811
+#EXTINF:-1 ,TR| TRT MUZIK
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33812
+#EXTINF:-1 ,TR| TRT SPOR
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33813
+#EXTINF:-1 ,TR| TRT WORLD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33814
+#EXTINF:-1 ,TR| TURKMAX GURME
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33815
+#EXTINF:-1 ,TR| HABERTURK
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33816
+#EXTINF:-1 ,TR| EURONEWS
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33817
+#EXTINF:-1 ,TR| BLOOMBERG
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33818
+#EXTINF:-1 ,TR| CNN TURK
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33819
+#EXTINF:-1 ,TR| KANAL 24
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33820
+#EXTINF:-1 ,TR| KANAL 7
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33821
+#EXTINF:-1 ,TR| A2
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33822
+#EXTINF:-1 ,TR| TLC SD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33823
+#EXTINF:-1 ,TR| TV4
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33824
+#EXTINF:-1 ,TR| TV8
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33825
+#EXTINF:-1 ,TR| TV8.5
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33826
+#EXTINF:-1 ,TR| TVEM
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33827
+#EXTINF:-1 ,TR| TVNET
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33828
+#EXTINF:-1 ,TR| ULKE TV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33829
+#EXTINF:-1 ,TR| YABAN TV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33831
+#EXTINF:-1 ,TR| 24 TV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33834
+#EXTINF:-1 ,TR| 360 TV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33835
+#EXTINF:-1 ,TR| BENGU TURK TV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33836
+#EXTINF:-1 ,TR| BEYAZ TV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33837
+#EXTINF:-1 ,TR| FOX CRIME TV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33838
+#EXTINF:-1 ,TR| FOX LIFE TV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33839
+#EXTINF:-1 ,TR| FOX TV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33840
+#EXTINF:-1 ,TR| FX
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33841
+#EXTINF:-1 ,TR| TGRT HABER
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33842
+#EXTINF:-1 ,TR| SONY TV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33844
+#EXTINF:-1 ,TR| NTV HABER
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33845
+#EXTINF:-1 ,TR| NUMBER1 TURK
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33846
+#EXTINF:-1 ,TR| POWERTURK
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33847
+#EXTINF:-1 ,TR| TLC
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33849
+#EXTINF:-1 ,TR| BABY TV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33850
+#EXTINF:-1 ,TR| BOOMERANG
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33851
+#EXTINF:-1 ,TR| CARTON NETWORK
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33852
+#EXTINF:-1 ,TR| DISNEY
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33853
+#EXTINF:-1 ,TR| DISNEY JUNIOR
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33854
+#EXTINF:-1 ,TR| DISNEY XD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33855
+#EXTINF:-1 ,TR| NICKELODEON
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33856
+#EXTINF:-1 ,TR| NICKJR
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33857
+#EXTINF:-1 ,TR| MINIKA COCUK
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33858
+#EXTINF:-1 ,TR| MINIKA GO
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33859
+#EXTINF:-1 ,TR| NATIONAL GEO
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33860
+#EXTINF:-1 ,TR| NATIONAL GEO PEOPLE
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33861
+#EXTINF:-1 ,TR| NATIONAL GEO WILD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33862
+#EXTINF:-1 ,TR| ANIMAL PLANET TR
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33863
+#EXTINF:-1 ,TR| DISCOVERY
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33864
+#EXTINF:-1 ,TR| DISCOVERY SHOWCASE
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33865
+#EXTINF:-1 ,TR| DISCOVERY SIENCE
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33866
+#EXTINF:-1 ,TR| DTX
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33867
+#EXTINF:-1 ,TR| HISTORY
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33868
+#EXTINF:-1 ,TR| beIN BOX OFFICE 1
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33870
+#EXTINF:-1 ,TR| beIN BOX OFFICE 2
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33871
+#EXTINF:-1 ,TR| beIN BOX OFFICE 3
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33872
+#EXTINF:-1 ,TR| BEIN MOVIE Turk HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33915
+#EXTINF:-1 ,TR| BEIN MOVIES COMEDY HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33916
+#EXTINF:-1 ,TR| BEIN MOVIES FESTIVAL HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33917
+#EXTINF:-1 ,TR| BEIN MOVIES PREMIER HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33918
+#EXTINF:-1 ,TR| BEINMOVIES ACTION
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33919
+#EXTINF:-1 ,TR| BEINMOVIES ACTION HD2
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33920
+#EXTINF:-1 ,TR| BEINMOVIES FAMILY HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33921
+#EXTINF:-1 ,TR| BEINMOVIES PREMIER HD2
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33922
+#EXTINF:-1 ,TR| BEINMOVIES STARS HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33923
+#EXTINF:-1 ,TR| CAPTAIN MOVIES 1
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33873
+#EXTINF:-1 ,TR| CAPTAIN MOVIES 2
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33874
+#EXTINF:-1 ,TR| CAPTAIN MOVIES 3
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33875
+#EXTINF:-1 ,TR| CAPTAIN MOVIES 4
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33876
+#EXTINF:-1 ,TR| CAPTAIN MOVIES 5
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33877
+#EXTINF:-1 ,TR| FILMBOX- AILE
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33878
+#EXTINF:-1 ,TR| FILMBOX- AKSIYON
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33879
+#EXTINF:-1 ,TR| FILMBOX- AKSIYON 2
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33880
+#EXTINF:-1 ,TR| FILMBOX- ANIMASYON
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33881
+#EXTINF:-1 ,TR| FILMBOX- BILIMKURGU
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33882
+#EXTINF:-1 ,TR| FILMBOX- DRAM
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33883
+#EXTINF:-1 ,TR| FILMBOX- FANTASTIK
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33884
+#EXTINF:-1 ,TR| FILMBOX- GERMANY
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33885
+#EXTINF:-1 ,TR| SINEMA TV YERLI HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33886
+#EXTINF:-1 ,TR| SINEMA TV KOMEDI 2HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33887
+#EXTINF:-1 ,TR| SINEMA TV AILE HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33888
+#EXTINF:-1 ,TR|  SINEMA TV ACTION HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33889
+#EXTINF:-1 ,TR| FILMBOX- YESILCAM
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33890
+#EXTINF:-1 ,TR| FILMBOX- ADRENALIN
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33891
+#EXTINF:-1 ,TR| SINEMA TV 1002 HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33830
+#EXTINF:-1 ,TR| SINEMA TV 1001 HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33832
+#EXTINF:-1 ,TR| SINEMA  TV  HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33833
+#EXTINF:-1 ,TR| SineMax Comedy HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33909
+#EXTINF:-1 ,TR| SineMax Drama HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33910
+#EXTINF:-1 ,TR| SineMax Family HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33911
+#EXTINF:-1 ,TR| SineMax Fear HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33912
+#EXTINF:-1 ,TR| SineMax Nostalgia HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33913
+#EXTINF:-1 ,TR| SineMax Turk HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33914
+#EXTINF:-1 ,TR| MOVIESMART TURK HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33907
+#EXTINF:-1 ,TR| MOVIESMART PLATIN HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33924
+#EXTINF:-1 ,TR| MOVIESMART PREMIUM HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33925
+#EXTINF:-1 ,TR| MOVIESMART PREMIUM HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33926
+#EXTINF:-1 ,TR| MOVIESMART PLATIN HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33927
+#EXTINF:-1 ,TR| MOVIESMART GOLD HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33928
+#EXTINF:-1 ,TR| MOVIESMART FEST HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33929
+#EXTINF:-1 ,TR| MOVIESMART FAMILY HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33930
+#EXTINF:-1 ,TR| MagicBox Loca 1 HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33931
+#EXTINF:-1 ,TR| MagicBox Loca 2 HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33932
+#EXTINF:-1 ,TR| MagicBox Loca 3 HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33933
+#EXTINF:-1 ,TR| MaGicBoX  Yerli HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33908
+#EXTINF:-1 ,TR| MaGicBoX Western HD
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33934
+#EXTINF:-1 ,TR| beIN HABER
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33894
+#EXTINF:-1 ,TR| beINSPORT1
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33899
+#EXTINF:-1 ,TR| BEIN SPORT 1
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33895
+#EXTINF:-1 ,TR| beINSPORT2
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33900
+#EXTINF:-1 ,TR| BEIN SPORT 2
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33896
+#EXTINF:-1 ,TR| beINSPORT3
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33901
+#EXTINF:-1 ,TR| BEIN SPORT 3
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33897
+#EXTINF:-1 ,TR| BEIN SPORT 4
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33898
+#EXTINF:-1 ,TR| EUROSPORT-1
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33892
+#EXTINF:-1 ,TR| EUROSPORT-2
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33893
+#EXTINF:-1 ,TR| A SPOR
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33902
+#EXTINF:-1 ,TR| SMART SPOR-1
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33903
+#EXTINF:-1 ,TR| S-SPORT
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33904
+#EXTINF:-1 ,TR| NBA TV
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33905
+#EXTINF:-1 ,TR| NTV SPOR
+http://dream4k.co:8080/Augusto13620/nhmuq8fqd7/33906
+#EXTINF:-1 ,TR: BEINSPORTS 1 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137937
+#EXTINF:-1 ,TR: BEINSPORTS 2 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137936
+#EXTINF:-1 ,TR: BEINSPORTS 3 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137935
+#EXTINF:-1 ,TR: BEINSPORTS 4 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137934
+#EXTINF:-1 ,TR: BEINSPORTS MAX 1 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137933
+#EXTINF:-1 ,TR: BEINSPORTS MAX 2 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137932
+#EXTINF:-1 ,TR: TIVIBU SPOR 1 FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137931
+#EXTINF:-1 ,TR: TIVIBU SPOR 2 FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137930
+#EXTINF:-1 ,TR: TIVIBU SPOR 3 FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137929
+#EXTINF:-1 ,TR: S SPORTS 1 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137927
+#EXTINF:-1 ,TR: EUROSPORT 1 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137923
+#EXTINF:-1 ,TR: GSTV HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137920
+#EXTINF:-1 ,TR: GS TV HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137919
+#EXTINF:-1 ,TR: FB TV HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137918
+#EXTINF:-1 ,TR: TJK TV HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137917
+#EXTINF:-1 ,TR: TRT 1 HD L
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137914
+#EXTINF:-1 ,TR: TRT 1 SD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137913
+#EXTINF:-1 ,TR: KANAL D HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137911
+#EXTINF:-1 ,TR: KANAL D SD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137910
+#EXTINF:-1 ,TR: ATV FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137909
+#EXTINF:-1 ,TR: ATV HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137908
+#EXTINF:-1 ,TR: Star TV FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137903
+#EXTINF:-1 ,TR: STAR TV HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137902
+#EXTINF:-1 ,TR: SHOW TV HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137899
+#EXTINF:-1 ,TR: SHOW TV SD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137898
+#EXTINF:-1 ,TR: FOX TV FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137897
+#EXTINF:-1 ,TR: TV 8.5 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137891
+#EXTINF:-1 ,TR: KANAL 7 FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137890
+#EXTINF:-1 ,TR: KANAL 7 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137889
+#EXTINF:-1 ,TR: KANAL 7 SD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137888
+#EXTINF:-1 ,TR: TEVE 2 FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137887
+#EXTINF:-1 ,TR: TEVE 2 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137886
+#EXTINF:-1 ,TR: TEVE 2 SD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137885
+#EXTINF:-1 ,TR: BEYAZ TV FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137884
+#EXTINF:-1 ,TR: BEYAZ TV HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137883
+#EXTINF:-1 ,TR: 360 TV HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137881
+#EXTINF:-1 ,TR: TV EM SD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137878
+#EXTINF:-1 ,TR: TRT HABER FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137872
+#EXTINF:-1 ,TR: HABERTURK FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137869
+#EXTINF:-1 ,TR: HABERTURK HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137868
+#EXTINF:-1 ,TR: HABERTÜRK SD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137867
+#EXTINF:-1 ,TR: BLOOMBERG HT HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137865
+#EXTINF:-1 ,TR: A HABER FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137863
+#EXTINF:-1 ,TR: A HABER HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137862
+#EXTINF:-1 ,TR: A HABER SD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137861
+#EXTINF:-1 ,TR: NTV HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137859
+#EXTINF:-1 ,TR: NTV SD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137858
+#EXTINF:-1 ,TR: CNN TURK  FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137857
+#EXTINF:-1 ,TR: CNN TURK HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137856
+#EXTINF:-1 ,TR: CNN TURK SD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137855
+#EXTINF:-1 ,TR: ULKE TV FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137851
+#EXTINF:-1 ,TR: TV100 FHD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137849
+#EXTINF:-1 ,TR: KANAL 24 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137848
+#EXTINF:-1 ,TR: TGRT HABER SD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137846
+#EXTINF:-1 ,TR: TELE 1 SD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137844
+#EXTINF:-1 ,TR: Akit TV
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137842
+#EXTINF:-1 ,TR: NAT GEOGRAPHIC HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137839
+#EXTINF:-1 ,TR: DISCOVERY HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137837
+#EXTINF:-1 ,TR: DISCOVERY SCIENCE
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137836
+#EXTINF:-1 ,TR: DISCOVERY ID HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137835
+#EXTINF:-1 ,TR: ANIMAL PLANET HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137834
+#EXTINF:-1 ,TR: ANIMAUX HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137833
+#EXTINF:-1 ,TR: HISTORY HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137832
+#EXTINF:-1 ,TR: BBC EARTH
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137831
+#EXTINF:-1 ,TR: DA VINCI LEARNING HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137829
+#EXTINF:-1 ,TR: CHASSE ET PECHE HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137828
+#EXTINF:-1 ,TR: VIASAT HISTORY - NATURE
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137827
+#EXTINF:-1 ,TR: YABAN TV HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137826
+#EXTINF:-1 ,TR: TLC HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137824
+#EXTINF:-1 ,TR: BEIN MOVIES TURK HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137821
+#EXTINF:-1 ,TR: BEIN MOVIES STARS HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137820
+#EXTINF:-1 ,TR: BEIN SERIES COMEDY HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137813
+#EXTINF:-1 ,TR: MOVIESMART TURK HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137812
+#EXTINF:-1 ,TR: MOVIESMART PREMIUM HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137811
+#EXTINF:-1 ,TR: MOVIESMART PREMIUM 2 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137810
+#EXTINF:-1 ,TR: MOVIESMART GOLD HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137807
+#EXTINF:-1 ,TR: MOVIESMART FAMILY HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137805
+#EXTINF:-1 ,TR: MOVIESMART CLASSIC HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137804
+#EXTINF:-1 ,TR: DIZISMART PREMIUM HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137801
+#EXTINF:-1 ,TR: SINEMA TV YERLI 1 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137800
+#EXTINF:-1 ,TR: SINEMA TV KOMEDI 1 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137799
+#EXTINF:-1 ,TR: SINEMA TV AKSIYON 1 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137798
+#EXTINF:-1 ,TR: SINEMA TV AILE 1 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137797
+#EXTINF:-1 ,TR: SINEMA TV 1001 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137796
+#EXTINF:-1 ,TR: SINEMA TV HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137795
+#EXTINF:-1 ,TR: FX HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137788
+#EXTINF:-1 ,TR: BOSS KEMAL SUNAL
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137786
+#EXTINF:-1 ,TR: BOSS MOVIES 1 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137785
+#EXTINF:-1 ,TR: BOSS MOVIES 2 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137784
+#EXTINF:-1 ,TR: BOSS MOVIES 3 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137783
+#EXTINF:-1 ,TR: BOSS MOVIES 4 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137782
+#EXTINF:-1 ,TR: BOSS MOVIES 5 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137781
+#EXTINF:-1 ,TR: BOSS MOVIES 6 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137780
+#EXTINF:-1 ,TR: BOSS MOVIES 7 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137779
+#EXTINF:-1 ,TR: BOSS MOVIES 8 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137778
+#EXTINF:-1 ,TR: BOSS MOVIES 9 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137777
+#EXTINF:-1 ,TR: BOSS MOVIES 10 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137776
+#EXTINF:-1 ,TR: ENO ANiMASYON
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137775
+#EXTINF:-1 ,TR: ENO ViZYON 4
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137771
+#EXTINF:-1 ,TR: ENO ViZYON 5
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137770
+#EXTINF:-1 ,TR: ENO ViZYON 6
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137769
+#EXTINF:-1 ,TR: ENO ViZYON 7
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137768
+#EXTINF:-1 ,TR: ENO ViZYON 8
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137767
+#EXTINF:-1 ,TR: ENO ViZYON 9
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137766
+#EXTINF:-1 ,TR: ENO ViZYON 10
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137765
+#EXTINF:-1 ,TR: UNIVERSAL BOX 1 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137764
+#EXTINF:-1 ,TR: UNIVERSAL BOX 2 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137763
+#EXTINF:-1 ,TR: UNIVERSAL BOX 3 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137762
+#EXTINF:-1 ,TR: UNIVERSAL BOX 4 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137761
+#EXTINF:-1 ,TR: UNIVERSAL BOX 5 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137760
+#EXTINF:-1 ,TR: UNIVERSAL BOX 6 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137759
+#EXTINF:-1 ,TR: UNIVERSAL BOX 7 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137758
+#EXTINF:-1 ,TR: UNIVERSAL BOX 8 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137757
+#EXTINF:-1 ,TR: UNIVERSAL BOX 9 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137756
+#EXTINF:-1 ,TR: UNIVERSAL BOX 10 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137755
+#EXTINF:-1 ,TR: UNIVERSAL BOX 11 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137754
+#EXTINF:-1 ,TR: MARVEL STUDIOS 1
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137753
+#EXTINF:-1 ,TR: MARVEL STUDIOS 2
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137752
+#EXTINF:-1 ,TR: MARVEL STUDIOS 3
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137751
+#EXTINF:-1 ,TR: MARVEL STUDIOS 4
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137750
+#EXTINF:-1 ,TR: MARVEL STUDIOS 5
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137749
+#EXTINF:-1 ,TR: MARVEL STUDIOS 6
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137748
+#EXTINF:-1 ,TR: NEXTBOX CINEMA PREMiER
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137747
+#EXTINF:-1 ,TR: NEXTBOX SUBTITLE
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137746
+#EXTINF:-1 ,TR: MAX AKSIYON 1
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137743
+#EXTINF:-1 ,TR: MAX AKSIYON 2
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137742
+#EXTINF:-1 ,TR: MAX PREMIER
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137741
+#EXTINF:-1 ,TR: MAX VIZYON 2 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137740
+#EXTINF:-1 ,TR: MAX VIZYON 3 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137739
+#EXTINF:-1 ,TR: MAX VIZYON 4 HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137738
+#EXTINF:-1 ,TR: MAX GOLD TR
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137737
+#EXTINF:-1 ,TR: CARTOON NETWORK HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137732
+#EXTINF:-1 ,TR: DISNEY CHANNEL HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137731
+#EXTINF:-1 ,TR: MINIKA GO HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137730
+#EXTINF:-1 ,TR: NICK JR HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137729
+#EXTINF:-1 ,TR: BOOMERANG HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137726
+#EXTINF:-1 ,TR: SMART COCUK HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137725
+#EXTINF:-1 ,TR: BABY TV HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137724
+#EXTINF:-1 ,TR: DISNEY JR
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137722
+#EXTINF:-1 ,TR: NICK JR
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137721
+#EXTINF:-1 ,TR: NUMBER ONE ASK
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137719
+#EXTINF:-1 ,TR: CEM TV
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137717
+#EXTINF:-1 ,TR: POWER HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137716
+#EXTINF:-1 ,TR: POWER TURK HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137715
+#EXTINF:-1 ,TR: DREAM TURK HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137714
+#EXTINF:-1 ,TR: MTV
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137711
+#EXTINF:-1 ,TR: POWERTURK HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137709
+#EXTINF:-1 ,TR| TRT 1 HD
+http://pn.tvott.info:80/307216011400/307216011400/80735
+#EXTINF:-1 ,TR| TRT 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80734
+#EXTINF:-1 ,TR| SHOW HD
+http://pn.tvott.info:80/307216011400/307216011400/80733
+#EXTINF:-1 ,TR| KANAL D HD
+http://pn.tvott.info:80/307216011400/307216011400/80732
+#EXTINF:-1 ,TR| ATV HD
+http://pn.tvott.info:80/307216011400/307216011400/80731
+#EXTINF:-1 ,TR| STAR HD
+http://pn.tvott.info:80/307216011400/307216011400/80730
+#EXTINF:-1 ,TR| FOX HD
+http://pn.tvott.info:80/307216011400/307216011400/80729
+#EXTINF:-1 ,TR| BEYAZ HD
+http://pn.tvott.info:80/307216011400/307216011400/80728
+#EXTINF:-1 ,TR| TV 8 HD
+http://pn.tvott.info:80/307216011400/307216011400/80727
+#EXTINF:-1 ,TR| TV 8.5 HD
+http://pn.tvott.info:80/307216011400/307216011400/80726
+#EXTINF:-1 ,TR| KANAL 7 HD
+http://pn.tvott.info:80/307216011400/307216011400/80725
+#EXTINF:-1 ,TR| TRT 4K
+http://pn.tvott.info:80/307216011400/307216011400/80724
+#EXTINF:-1 ,TR| TRT 1 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80723
+#EXTINF:-1 ,TR| TRT 2 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80722
+#EXTINF:-1 ,TR| SHOW UHD
+http://pn.tvott.info:80/307216011400/307216011400/80721
+#EXTINF:-1 ,TR| KANAL D UHD
+http://pn.tvott.info:80/307216011400/307216011400/80720
+#EXTINF:-1 ,TR| ATV UHD
+http://pn.tvott.info:80/307216011400/307216011400/80719
+#EXTINF:-1 ,TR| STAR UHD
+http://pn.tvott.info:80/307216011400/307216011400/80718
+#EXTINF:-1 ,TR| FOX UHD
+http://pn.tvott.info:80/307216011400/307216011400/80717
+#EXTINF:-1 ,TR| BEYAZ UHD
+http://pn.tvott.info:80/307216011400/307216011400/80716
+#EXTINF:-1 ,TR| TV 8 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80715
+#EXTINF:-1 ,TR| TV 8.5 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80714
+#EXTINF:-1 ,TR| KANAL 7 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80713
+#EXTINF:-1 ,TR| 360 TV UHD
+http://pn.tvott.info:80/307216011400/307216011400/80712
+#EXTINF:-1 ,TR| DMAX UHD
+http://pn.tvott.info:80/307216011400/307216011400/80711
+#EXTINF:-1 ,TR| A2 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80710
+#EXTINF:-1 ,TR| TEVE 2 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80709
+#EXTINF:-1 ,TR| SHOW MAX
+http://pn.tvott.info:80/307216011400/307216011400/80708
+#EXTINF:-1 ,TR| TRT 4K+
+http://pn.tvott.info:80/307216011400/307216011400/80707
+#EXTINF:-1 ,TR| YABAN TV HD
+http://pn.tvott.info:80/307216011400/307216011400/80706
+#EXTINF:-1 ,TR|  HRT AKDENIZ TV
+http://pn.tvott.info:80/307216011400/307216011400/80705
+#EXTINF:-1 ,TR| RUMELI TV
+http://pn.tvott.info:80/307216011400/307216011400/80704
+#EXTINF:-1 ,TR| DRT DENIZLI
+http://pn.tvott.info:80/307216011400/307216011400/80703
+#EXTINF:-1 ,TR| AKIT TV HD
+http://pn.tvott.info:80/307216011400/307216011400/80700
+#EXTINF:-1 ,TR| REHBER TV
+http://pn.tvott.info:80/307216011400/307216011400/80699
+#EXTINF:-1 ,TR| LALEGUL TV
+http://pn.tvott.info:80/307216011400/307216011400/80698
+#EXTINF:-1 ,TR| ON 4 TV
+http://pn.tvott.info:80/307216011400/307216011400/80697
+#EXTINF:-1 ,TR| SEMERKAND TV UHD
+http://pn.tvott.info:80/307216011400/307216011400/80696
+#EXTINF:-1 ,TR| DOST TV
+http://pn.tvott.info:80/307216011400/307216011400/80695
+#EXTINF:-1 ,TR| AL QURAN TV
+http://pn.tvott.info:80/307216011400/307216011400/80694
+#EXTINF:-1 ,TR| KABE TV UHD
+http://pn.tvott.info:80/307216011400/307216011400/80693
+#EXTINF:-1 ,TR| TRT HABER UHD
+http://pn.tvott.info:80/307216011400/307216011400/80691
+#EXTINF:-1 ,TR| CNN TURK UHD
+http://pn.tvott.info:80/307216011400/307216011400/80690
+#EXTINF:-1 ,TR| NTV UHD
+http://pn.tvott.info:80/307216011400/307216011400/80689
+#EXTINF:-1 ,TR| 24 HABER UHD
+http://pn.tvott.info:80/307216011400/307216011400/80688
+#EXTINF:-1 ,TR| HABER GLOBAL UHD
+http://pn.tvott.info:80/307216011400/307216011400/80687
+#EXTINF:-1 ,TR| EKO TURK TV
+http://pn.tvott.info:80/307216011400/307216011400/80686
+#EXTINF:-1 ,TR| TV NET UHD
+http://pn.tvott.info:80/307216011400/307216011400/80685
+#EXTINF:-1 ,TR| ULKE TV UHD
+http://pn.tvott.info:80/307216011400/307216011400/80684
+#EXTINF:-1 ,TR| A HABER UHD
+http://pn.tvott.info:80/307216011400/307216011400/80683
+#EXTINF:-1 ,TR| AKIT TV UHD
+http://pn.tvott.info:80/307216011400/307216011400/80682
+#EXTINF:-1 ,TR| KOY TV
+http://pn.tvott.info:80/307216011400/307216011400/80681
+#EXTINF:-1 ,TR| BLOOMBERG HT UHD
+http://pn.tvott.info:80/307216011400/307216011400/80680
+#EXTINF:-1 ,TR| A PARA UHD
+http://pn.tvott.info:80/307216011400/307216011400/80679
+#EXTINF:-1 ,TR| TRT WORLD UHD
+http://pn.tvott.info:80/307216011400/307216011400/80678
+#EXTINF:-1 ,TR| A NEWS UHD
+http://pn.tvott.info:80/307216011400/307216011400/80677
+#EXTINF:-1 ,TR| ULUSAL KANAL
+http://pn.tvott.info:80/307216011400/307216011400/80676
+#EXTINF:-1 ,TR| HALK TV
+http://pn.tvott.info:80/307216011400/307216011400/80675
+#EXTINF:-1 ,TR| TGRT HABER UHD
+http://pn.tvott.info:80/307216011400/307216011400/80674
+#EXTINF:-1 ,TR| TELE 1
+http://pn.tvott.info:80/307216011400/307216011400/80673
+#EXTINF:-1 ,TR| UZAY HABER
+http://pn.tvott.info:80/307216011400/307216011400/80672
+#EXTINF:-1 ,TR| KANAL B
+http://pn.tvott.info:80/307216011400/307216011400/80671
+#EXTINF:-1 ,TR| KRT UHD
+http://pn.tvott.info:80/307216011400/307216011400/80670
+#EXTINF:-1 ,TR| HABER TURK UHD
+http://pn.tvott.info:80/307216011400/307216011400/80669
+#EXTINF:-1 ,TR| YOL TV
+http://pn.tvott.info:80/307216011400/307216011400/80668
+#EXTINF:-1 ,TR| CAN TV HD
+http://pn.tvott.info:80/307216011400/307216011400/80667
+#EXTINF:-1 ,TR| MC EU
+http://pn.tvott.info:80/307216011400/307216011400/80666
+#EXTINF:-1 ,TR| ARTI TV
+http://pn.tvott.info:80/307216011400/307216011400/80665
+#EXTINF:-1 ,TR| TV 100 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80664
+#EXTINF:-1 ,TR| TRT BELGESEL UHD
+http://pn.tvott.info:80/307216011400/307216011400/80662
+#EXTINF:-1 ,TR| TGRT BELGESEL
+http://pn.tvott.info:80/307216011400/307216011400/80661
+#EXTINF:-1 ,TR| DISCOVERY CHANNEL HD
+http://pn.tvott.info:80/307216011400/307216011400/80660
+#EXTINF:-1 ,TR| DISCOVERY SCIENCE HD
+http://pn.tvott.info:80/307216011400/307216011400/80659
+#EXTINF:-1 ,TR| NGC HD
+http://pn.tvott.info:80/307216011400/307216011400/80658
+#EXTINF:-1 ,TR| NGC WILD HD
+http://pn.tvott.info:80/307216011400/307216011400/80657
+#EXTINF:-1 ,TR| HISTORY CHANNEL HD
+http://pn.tvott.info:80/307216011400/307216011400/80656
+#EXTINF:-1 ,TR| ANIMAL PLANET HD
+http://pn.tvott.info:80/307216011400/307216011400/80655
+#EXTINF:-1 ,TR| TLC UHD
+http://pn.tvott.info:80/307216011400/307216011400/80654
+#EXTINF:-1 ,TR| BEIN GURME HD
+http://pn.tvott.info:80/307216011400/307216011400/80653
+#EXTINF:-1 ,TR| BEIN IZ HD
+http://pn.tvott.info:80/307216011400/307216011400/80652
+#EXTINF:-1 ,TR| ID TR HD
+http://pn.tvott.info:80/307216011400/307216011400/80651
+#EXTINF:-1 ,TR| OUTDOOR SMART HD
+http://pn.tvott.info:80/307216011400/307216011400/80647
+#EXTINF:-1 ,TR| FAST FUN HD
+http://pn.tvott.info:80/307216011400/307216011400/80646
+#EXTINF:-1 ,TR| DA VINCI HD
+http://pn.tvott.info:80/307216011400/307216011400/80644
+#EXTINF:-1 ,TR| D MAX HD
+http://pn.tvott.info:80/307216011400/307216011400/80643
+#EXTINF:-1 ,TR| BBC EARTH HD
+http://pn.tvott.info:80/307216011400/307216011400/80642
+#EXTINF:-1 ,TR|  24 KITCHEN HD
+http://pn.tvott.info:80/307216011400/307216011400/80641
+#EXTINF:-1 ,TR| TRT COCUK UHD
+http://pn.tvott.info:80/307216011400/307216011400/80639
+#EXTINF:-1 ,TR| MINIKA GO
+http://pn.tvott.info:80/307216011400/307216011400/80638
+#EXTINF:-1 ,TR| MINIKA COCUK
+http://pn.tvott.info:80/307216011400/307216011400/80637
+#EXTINF:-1 ,TR| NICK JR
+http://pn.tvott.info:80/307216011400/307216011400/80636
+#EXTINF:-1 ,TR| NICKELODEON HD
+http://pn.tvott.info:80/307216011400/307216011400/80635
+#EXTINF:-1 ,TR|  DISNEY XD
+http://pn.tvott.info:80/307216011400/307216011400/80634
+#EXTINF:-1 ,TR|  DISNEY JR HD
+http://pn.tvott.info:80/307216011400/307216011400/80633
+#EXTINF:-1 ,TR| DISNEY CHANNEL
+http://pn.tvott.info:80/307216011400/307216011400/80632
+#EXTINF:-1 ,TR| BOOMERANG HD
+http://pn.tvott.info:80/307216011400/307216011400/80630
+#EXTINF:-1 ,TR| BABY TV
+http://pn.tvott.info:80/307216011400/307216011400/80629
+#EXTINF:-1 ,TR| TOM VE JERRY
+http://pn.tvott.info:80/307216011400/307216011400/80628
+#EXTINF:-1 ,TR| NILOYA TV
+http://pn.tvott.info:80/307216011400/307216011400/80627
+#EXTINF:-1 ,TR| TRT EBA TV HD ILKOKUL
+http://pn.tvott.info:80/307216011400/307216011400/80626
+#EXTINF:-1 ,TR| TRT EBA TV HD ORTAOKUL
+http://pn.tvott.info:80/307216011400/307216011400/80625
+#EXTINF:-1 ,TR| TRT EBA TV HD LISE
+http://pn.tvott.info:80/307216011400/307216011400/80624
+#EXTINF:-1 ,TR| TRT MUZIK UHD
+http://pn.tvott.info:80/307216011400/307216011400/80622
+#EXTINF:-1 ,TR| NR 1 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80621
+#EXTINF:-1 ,TR| NR 1 TURK UHD
+http://pn.tvott.info:80/307216011400/307216011400/80620
+#EXTINF:-1 ,TR| KRAL TV HD
+http://pn.tvott.info:80/307216011400/307216011400/80619
+#EXTINF:-1 ,TR| KRAL POP HD
+http://pn.tvott.info:80/307216011400/307216011400/80618
+#EXTINF:-1 ,TR| KRAL PERFORMANS TV HD
+http://pn.tvott.info:80/307216011400/307216011400/80617
+#EXTINF:-1 ,TR| POWER UHD
+http://pn.tvott.info:80/307216011400/307216011400/80616
+#EXTINF:-1 ,TR| POWER TURK UHD
+http://pn.tvott.info:80/307216011400/307216011400/80615
+#EXTINF:-1 ,TR| DREAM TURK
+http://pn.tvott.info:80/307216011400/307216011400/80613
+#EXTINF:-1 ,TR| MAVI KARADENIZ TV
+http://pn.tvott.info:80/307216011400/307216011400/80612
+#EXTINF:-1 ,TR| VATAN TV
+http://pn.tvott.info:80/307216011400/307216011400/80611
+#EXTINF:-1 ,TR| MILYON TV
+http://pn.tvott.info:80/307216011400/307216011400/80610
+#EXTINF:-1 ,TR| DEM TV
+http://pn.tvott.info:80/307216011400/307216011400/80609
+#EXTINF:-1 ,TR| ATV EU
+http://pn.tvott.info:80/307216011400/307216011400/80607
+#EXTINF:-1 ,TR| EURO D EU
+http://pn.tvott.info:80/307216011400/307216011400/80606
+#EXTINF:-1 ,TR| EURO STAR EU
+http://pn.tvott.info:80/307216011400/307216011400/80605
+#EXTINF:-1 ,TR| KANAL 7 EU
+http://pn.tvott.info:80/307216011400/307216011400/80604
+#EXTINF:-1 ,TR| TV 8 INT EU
+http://pn.tvott.info:80/307216011400/307216011400/80603
+#EXTINF:-1 ,TR| SHOW TURK EU
+http://pn.tvott.info:80/307216011400/307216011400/80602
+#EXTINF:-1 ,TR| TGRT EU
+http://pn.tvott.info:80/307216011400/307216011400/80601
+#EXTINF:-1 ,TR| KANAL AVRUPA EU
+http://pn.tvott.info:80/307216011400/307216011400/80600
+#EXTINF:-1 ,TR| DIYANET TV UHD
+http://pn.tvott.info:80/307216011400/307216011400/80598
+#EXTINF:-1 ,TR| TRT TURK UHD
+http://pn.tvott.info:80/307216011400/307216011400/80597
+#EXTINF:-1 ,TR| TRT AVAZ UHD
+http://pn.tvott.info:80/307216011400/307216011400/80596
+#EXTINF:-1 ,TR| BENGU TURK
+http://pn.tvott.info:80/307216011400/307216011400/80595
+#EXTINF:-1 ,TR| CEM TV
+http://pn.tvott.info:80/307216011400/307216011400/80594
+#EXTINF:-1 ,TR| YILDIZ EN
+http://pn.tvott.info:80/307216011400/307216011400/80593
+#EXTINF:-1 ,TR| KON TV KONYA
+http://pn.tvott.info:80/307216011400/307216011400/80592
+#EXTINF:-1 ,TR| KANAL 42 KONYA
+http://pn.tvott.info:80/307216011400/307216011400/80591
+#EXTINF:-1 ,TR| UCAN KUS TV
+http://pn.tvott.info:80/307216011400/307216011400/80590
+#EXTINF:-1 ,TR| MELTEM TV
+http://pn.tvott.info:80/307216011400/307216011400/80589
+#EXTINF:-1 ,TR| TV 4 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80588
+#EXTINF:-1 ,TR| TV 5
+http://pn.tvott.info:80/307216011400/307216011400/80587
+#EXTINF:-1 ,TR| AKILLI TV
+http://pn.tvott.info:80/307216011400/307216011400/80586
+#EXTINF:-1 ,TR| KUDUS TV
+http://pn.tvott.info:80/307216011400/307216011400/80585
+#EXTINF:-1 ,TR| TV KAYSERI
+http://pn.tvott.info:80/307216011400/307216011400/80584
+#EXTINF:-1 ,TR| TV 1 KAYSERI
+http://pn.tvott.info:80/307216011400/307216011400/80583
+#EXTINF:-1 ,TR| ALTAS TV ORDU
+http://pn.tvott.info:80/307216011400/307216011400/80582
+#EXTINF:-1 ,TR| CAY TV RIZE
+http://pn.tvott.info:80/307216011400/307216011400/80581
+#EXTINF:-1 ,TR| CIFT TV UHD
+http://pn.tvott.info:80/307216011400/307216011400/80580
+#EXTINF:-1 ,TR| DRT DENIZLI TV
+http://pn.tvott.info:80/307216011400/307216011400/80579
+#EXTINF:-1 ,TR| KANAL FIRAT ELAZIG
+http://pn.tvott.info:80/307216011400/307216011400/80578
+#EXTINF:-1 ,TR| KANAL URFA
+http://pn.tvott.info:80/307216011400/307216011400/80577
+#EXTINF:-1 ,TR| PAMUKKALE TV
+http://pn.tvott.info:80/307216011400/307216011400/80576
+#EXTINF:-1 ,TR| KANAL 3 ISPARTA HD
+http://pn.tvott.info:80/307216011400/307216011400/80575
+#EXTINF:-1 ,TR| KANAL V ANTALYA
+http://pn.tvott.info:80/307216011400/307216011400/80574
+#EXTINF:-1 ,TR| KOZA TV ADANA
+http://pn.tvott.info:80/307216011400/307216011400/80573
+#EXTINF:-1 ,TR| VIZYON 58 SIVAS
+http://pn.tvott.info:80/307216011400/307216011400/80572
+#EXTINF:-1 ,TR| TURKMENELI TV UHD
+http://pn.tvott.info:80/307216011400/307216011400/80571
+#EXTINF:-1 ,TR| TEK RUMELI TV
+http://pn.tvott.info:80/307216011400/307216011400/80570
+#EXTINF:-1 ,TR| GTV TV SANLIURFA
+http://pn.tvott.info:80/307216011400/307216011400/80569
+#EXTINF:-1 ,TR| KENT TURK TV KAYSERA
+http://pn.tvott.info:80/307216011400/307216011400/80568
+#EXTINF:-1 ,TR| TVDEN AYDIN
+http://pn.tvott.info:80/307216011400/307216011400/80567
+#EXTINF:-1 ,TR| TVO
+http://pn.tvott.info:80/307216011400/307216011400/80566
+#EXTINF:-1 ,TR| KANAL 32 ISPARTA HD
+http://pn.tvott.info:80/307216011400/307216011400/80565
+#EXTINF:-1 ,TR| BRT 1 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80564
+#EXTINF:-1 ,TR| BRT 2 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80563
+#EXTINF:-1 ,TR| KIBRIS TV
+http://pn.tvott.info:80/307216011400/307216011400/80562
+#EXTINF:-1 ,TR| KIBRIS TV ADA
+http://pn.tvott.info:80/307216011400/307216011400/80561
+#EXTINF:-1 ,TR| KANAL T KIBRIS
+http://pn.tvott.info:80/307216011400/307216011400/80560
+#EXTINF:-1 ,TR| KIBRIS GENC TV
+http://pn.tvott.info:80/307216011400/307216011400/80559
+#EXTINF:-1 ,TR|  SRT SIVAS
+http://pn.tvott.info:80/307216011400/307216011400/80558
+#EXTINF:-1 ,TR| AVA TV UHD
+http://pn.tvott.info:80/307216011400/307216011400/80557
+#EXTINF:-1 ,TR| KANAL 68
+http://pn.tvott.info:80/307216011400/307216011400/80556
+#EXTINF:-1 ,TR| KARDELEN TV
+http://pn.tvott.info:80/307216011400/307216011400/80555
+#EXTINF:-1 ,TR| MOVIE PREMIUM HD
+http://pn.tvott.info:80/307216011400/307216011400/80553
+#EXTINF:-1 ,TR| MOVIE PREMIUM 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80552
+#EXTINF:-1 ,TR| MOVIE PLATIN HD
+http://pn.tvott.info:80/307216011400/307216011400/80551
+#EXTINF:-1 ,TR| MOVIE PLATIN 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80550
+#EXTINF:-1 ,TR| MOVIE FAMILY HD
+http://pn.tvott.info:80/307216011400/307216011400/80549
+#EXTINF:-1 ,TR| MOVIE CLASSIC HD
+http://pn.tvott.info:80/307216011400/307216011400/80546
+#EXTINF:-1 ,TR| MOVIE TURK HD
+http://pn.tvott.info:80/307216011400/307216011400/80544
+#EXTINF:-1 ,TR| DiZi PREMIUM HD
+http://pn.tvott.info:80/307216011400/307216011400/80543
+#EXTINF:-1 ,TR| DIZISMART MAX HD
+http://pn.tvott.info:80/307216011400/307216011400/80542
+#EXTINF:-1 ,TR| FX HD
+http://pn.tvott.info:80/307216011400/307216011400/80541
+#EXTINF:-1 ,TR| BEIN MOVIES ACTION HD
+http://pn.tvott.info:80/307216011400/307216011400/80539
+#EXTINF:-1 ,TR| BEIN MOVIES ACTION 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80538
+#EXTINF:-1 ,TR| BEIN MOVIES FAMILY HD
+http://pn.tvott.info:80/307216011400/307216011400/80537
+#EXTINF:-1 ,TR| BEIN MOVIES PREMIER HD
+http://pn.tvott.info:80/307216011400/307216011400/80536
+#EXTINF:-1 ,TR| BEIN MOVIES PREMIER 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80535
+#EXTINF:-1 ,TR| BEIN MOVIES STARS HD
+http://pn.tvott.info:80/307216011400/307216011400/80534
+#EXTINF:-1 ,TR| BEIN MOVIES TURK HD
+http://pn.tvott.info:80/307216011400/307216011400/80533
+#EXTINF:-1 ,TR| BEIN SERIES COMEDY HD
+http://pn.tvott.info:80/307216011400/307216011400/80532
+#EXTINF:-1 ,TR| BEIN SERIES DRAMA HD
+http://pn.tvott.info:80/307216011400/307216011400/80531
+#EXTINF:-1 ,TR| BEIN SERIES SCI-FI HD
+http://pn.tvott.info:80/307216011400/307216011400/80530
+#EXTINF:-1 ,TR| BEIN SERIES VICE HD
+http://pn.tvott.info:80/307216011400/307216011400/80529
+#EXTINF:-1 ,TR| BEIN BOX OFFICE 1 HD
+http://pn.tvott.info:80/307216011400/307216011400/80528
+#EXTINF:-1 ,TR| BEIN BOX OFFICE 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80527
+#EXTINF:-1 ,TR| BEIN BOX OFFICE 3 HD
+http://pn.tvott.info:80/307216011400/307216011400/80526
+#EXTINF:-1 ,TR| METROPOL TURK
+http://pn.tvott.info:80/307216011400/307216011400/80524
+#EXTINF:-1 ,TR| METROPOL NETFLIX
+http://pn.tvott.info:80/307216011400/307216011400/80523
+#EXTINF:-1 ,TR| METROPOL KUKULI
+http://pn.tvott.info:80/307216011400/307216011400/80522
+#EXTINF:-1 ,TR| METROPOL ANKARA
+http://pn.tvott.info:80/307216011400/307216011400/80520
+#EXTINF:-1 ,TR| METROPOL AKILLI TAVSAN MOMO
+http://pn.tvott.info:80/307216011400/307216011400/80519
+#EXTINF:-1 ,TR| ELIT YESILCAM   3 HD
+http://pn.tvott.info:80/307216011400/307216011400/80518
+#EXTINF:-1 ,TR| ELIT SMART TURK HD
+http://pn.tvott.info:80/307216011400/307216011400/80517
+#EXTINF:-1 ,TR| ELIT SMART FEST HD
+http://pn.tvott.info:80/307216011400/307216011400/80515
+#EXTINF:-1 ,TR| ELIT SMART FAMILY HD
+http://pn.tvott.info:80/307216011400/307216011400/80514
+#EXTINF:-1 ,TR| ELIT SINEMA YERLI HD
+http://pn.tvott.info:80/307216011400/307216011400/80512
+#EXTINF:-1 ,TR| ELIT SINEMA YERLI 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80511
+#EXTINF:-1 ,TR| ELIT SINEMA KOMEDI HD
+http://pn.tvott.info:80/307216011400/307216011400/80508
+#EXTINF:-1 ,TR| ELIT SINEMA KOMEDI 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80507
+#EXTINF:-1 ,TR| ELIT SINEMA AKSIYON HD
+http://pn.tvott.info:80/307216011400/307216011400/80506
+#EXTINF:-1 ,TR| ELIT SINEMA AKSIYON 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80505
+#EXTINF:-1 ,TR| ELIT SINEMA AILE HD
+http://pn.tvott.info:80/307216011400/307216011400/80504
+#EXTINF:-1 ,TR| ELIT SINEMA AILE 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80503
+#EXTINF:-1 ,TR| ELIT POP
+http://pn.tvott.info:80/307216011400/307216011400/80502
+#EXTINF:-1 ,TR| ELIT NILOYA TV
+http://pn.tvott.info:80/307216011400/307216011400/80501
+#EXTINF:-1 ,TR| ELIT NETFLIX 1 HD
+http://pn.tvott.info:80/307216011400/307216011400/80500
+#EXTINF:-1 ,TR| ELIT NETFLIX 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80499
+#EXTINF:-1 ,TR| ELIT NETFLIX 3 HD
+http://pn.tvott.info:80/307216011400/307216011400/80498
+#EXTINF:-1 ,TR| ELIT MOVIES PREMIER HD
+http://pn.tvott.info:80/307216011400/307216011400/80497
+#EXTINF:-1 ,TR| ELIT MOVIES PREMIER 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80496
+#EXTINF:-1 ,TR| ELIT MOVIES FESTIVAL HD
+http://pn.tvott.info:80/307216011400/307216011400/80495
+#EXTINF:-1 ,TR| ELIT MOVIES FAMILIY HD
+http://pn.tvott.info:80/307216011400/307216011400/80494
+#EXTINF:-1 ,TR| ELIT MASA ILE KOCA AYI
+http://pn.tvott.info:80/307216011400/307216011400/80493
+#EXTINF:-1 ,TR| ELIT KEMAL SUNAL
+http://pn.tvott.info:80/307216011400/307216011400/80492
+#EXTINF:-1 ,TR| ELIT HD COCUK
+http://pn.tvott.info:80/307216011400/307216011400/80491
+#EXTINF:-1 ,TR| ELIT HD ANIMASYON 3
+http://pn.tvott.info:80/307216011400/307216011400/80490
+#EXTINF:-1 ,TR| ELIT HD ANIMASYON 2
+http://pn.tvott.info:80/307216011400/307216011400/80489
+#EXTINF:-1 ,TR| ELIT HD ANIMASYON 1
+http://pn.tvott.info:80/307216011400/307216011400/80488
+#EXTINF:-1 ,TR| ELIT BOX OFFICE 1 HD
+http://pn.tvott.info:80/307216011400/307216011400/80487
+#EXTINF:-1 ,TR| ELIT ARABESK
+http://pn.tvott.info:80/307216011400/307216011400/80484
+#EXTINF:-1 ,TR| ELIT ANKARA  HD
+http://pn.tvott.info:80/307216011400/307216011400/80483
+#EXTINF:-1 ,TR| ELIT AKILLI TAVSAN MOMO
+http://pn.tvott.info:80/307216011400/307216011400/80482
+#EXTINF:-1 ,TR| LOCA 1 HD
+http://pn.tvott.info:80/307216011400/307216011400/80481
+#EXTINF:-1 ,TR| LOCA 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80480
+#EXTINF:-1 ,TR| LOCA 3 HD
+http://pn.tvott.info:80/307216011400/307216011400/80479
+#EXTINF:-1 ,TR| MEDOTV MIX 1
+http://pn.tvott.info:80/307216011400/307216011400/80478
+#EXTINF:-1 ,TR| MEDOTV MIX 2
+http://pn.tvott.info:80/307216011400/307216011400/80477
+#EXTINF:-1 ,TR| MEDOTV MIX 3
+http://pn.tvott.info:80/307216011400/307216011400/80476
+#EXTINF:-1 ,TR| MEDOTV MIX 4
+http://pn.tvott.info:80/307216011400/307216011400/80475
+#EXTINF:-1 ,TR| MEDOTV MIX 5
+http://pn.tvott.info:80/307216011400/307216011400/80474
+#EXTINF:-1 ,TR| MEDOTV MIX 6
+http://pn.tvott.info:80/307216011400/307216011400/80473
+#EXTINF:-1 ,TR| MEDOTV MIX 7
+http://pn.tvott.info:80/307216011400/307216011400/80472
+#EXTINF:-1 ,TR| MEDOTV MIX 10
+http://pn.tvott.info:80/307216011400/307216011400/80471
+#EXTINF:-1 ,TR| MEDOTV KORKU 1
+http://pn.tvott.info:80/307216011400/307216011400/80470
+#EXTINF:-1 ,TR| MEDOTV KOMEDI 1
+http://pn.tvott.info:80/307216011400/307216011400/80469
+#EXTINF:-1 ,TR| MEDOTV DRAMA 1
+http://pn.tvott.info:80/307216011400/307216011400/80468
+#EXTINF:-1 ,TR| MEDOTV WESTERN
+http://pn.tvott.info:80/307216011400/307216011400/80467
+#EXTINF:-1 ,TR| MEDOTV BILIMKURGU 1
+http://pn.tvott.info:80/307216011400/307216011400/80466
+#EXTINF:-1 ,TR| MEDOTV ANIMASYON 1
+http://pn.tvott.info:80/307216011400/307216011400/80465
+#EXTINF:-1 ,TR| MEDOTV AKSIYON 1
+http://pn.tvott.info:80/307216011400/307216011400/80464
+#EXTINF:-1 ,TR| MEDOTV AKSIYON 2
+http://pn.tvott.info:80/307216011400/307216011400/80463
+#EXTINF:-1 ,TR| MEDOTV AKSIYON 3
+http://pn.tvott.info:80/307216011400/307216011400/80462
+#EXTINF:-1 ,TR| MEDOTV AKSIYON 4
+http://pn.tvott.info:80/307216011400/307216011400/80461
+#EXTINF:-1 ,TR| MEDOTV TURK SINEMA 1
+http://pn.tvott.info:80/307216011400/307216011400/80460
+#EXTINF:-1 ,TR| MEDOTV TURK SINEMA 2
+http://pn.tvott.info:80/307216011400/307216011400/80459
+#EXTINF:-1 ,TR| MEDOTV TURK SINEMA 3
+http://pn.tvott.info:80/307216011400/307216011400/80458
+#EXTINF:-1 ,TR| MEDOTV TURK SINEMA 4
+http://pn.tvott.info:80/307216011400/307216011400/80457
+#EXTINF:-1 ,TR| MEDOTV TURK SINEMA 5
+http://pn.tvott.info:80/307216011400/307216011400/80456
+#EXTINF:-1 ,TR| YESIL SINEMA TV
+http://pn.tvott.info:80/307216011400/307216011400/80455
+#EXTINF:-1 ,TR| ENO TURK 1
+http://pn.tvott.info:80/307216011400/307216011400/80454
+#EXTINF:-1 ,TR| ENO ANIMASYON
+http://pn.tvott.info:80/307216011400/307216011400/80453
+#EXTINF:-1 ,TR| ENO WESTERN
+http://pn.tvott.info:80/307216011400/307216011400/80452
+#EXTINF:-1 ,TR| ENO VIZYON 1
+http://pn.tvott.info:80/307216011400/307216011400/80451
+#EXTINF:-1 ,TR| ENO VIZYON 2
+http://pn.tvott.info:80/307216011400/307216011400/80450
+#EXTINF:-1 ,TR| ENO VIZYON 3
+http://pn.tvott.info:80/307216011400/307216011400/80449
+#EXTINF:-1 ,TR| ENO VIZYON 4
+http://pn.tvott.info:80/307216011400/307216011400/80448
+#EXTINF:-1 ,TR| ENO VIZYON 5
+http://pn.tvott.info:80/307216011400/307216011400/80447
+#EXTINF:-1 ,TR| ENO VIZYON 6
+http://pn.tvott.info:80/307216011400/307216011400/80446
+#EXTINF:-1 ,TR| ENO VIZYON 7
+http://pn.tvott.info:80/307216011400/307216011400/80445
+#EXTINF:-1 ,TR| ENO VIZYON 8
+http://pn.tvott.info:80/307216011400/307216011400/80444
+#EXTINF:-1 ,TR| ENO VIZYON 9
+http://pn.tvott.info:80/307216011400/307216011400/80443
+#EXTINF:-1 ,TR| ENO VIZYON 10
+http://pn.tvott.info:80/307216011400/307216011400/80442
+#EXTINF:-1 ,TR| ENO VIZYON 11
+http://pn.tvott.info:80/307216011400/307216011400/80441
+#EXTINF:-1 ,TR| ENO VIZYON 12
+http://pn.tvott.info:80/307216011400/307216011400/80440
+#EXTINF:-1 ,TR| ENO VIZYON 13
+http://pn.tvott.info:80/307216011400/307216011400/80439
+#EXTINF:-1 ,TR| ENO VIZYON 14
+http://pn.tvott.info:80/307216011400/307216011400/80438
+#EXTINF:-1 ,TR| ENO VIZYON 15
+http://pn.tvott.info:80/307216011400/307216011400/80437
+#EXTINF:-1 ,TR| BOSS MOVIES 1 HD
+http://pn.tvott.info:80/307216011400/307216011400/80436
+#EXTINF:-1 ,TR| BOSS MOVIES 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80435
+#EXTINF:-1 ,TR| BOSS MOVIES 3 HD
+http://pn.tvott.info:80/307216011400/307216011400/80434
+#EXTINF:-1 ,TR| BOSS MOVIES 4 HD
+http://pn.tvott.info:80/307216011400/307216011400/80433
+#EXTINF:-1 ,TR| BOSS MOVIES 5 HD
+http://pn.tvott.info:80/307216011400/307216011400/80432
+#EXTINF:-1 ,TR| BOSS MOVIES 6 HD
+http://pn.tvott.info:80/307216011400/307216011400/80431
+#EXTINF:-1 ,TR| BOSS MOVIES 7 HD
+http://pn.tvott.info:80/307216011400/307216011400/80430
+#EXTINF:-1 ,TR| BOSS MOVIES 8 HD
+http://pn.tvott.info:80/307216011400/307216011400/80429
+#EXTINF:-1 ,TR| BOSS MOVIES 9 HD
+http://pn.tvott.info:80/307216011400/307216011400/80428
+#EXTINF:-1 ,TR| BOSS MOVIES 10 HD
+http://pn.tvott.info:80/307216011400/307216011400/80427
+#EXTINF:-1 ,TR| BOSS MOVIES KEMAL SUNAL
+http://pn.tvott.info:80/307216011400/307216011400/80426
+#EXTINF:-1 ,TR| JUMBOTV MACERA HD
+http://pn.tvott.info:80/307216011400/307216011400/80424
+#EXTINF:-1 ,TR| JUMBOTV KORKU HD
+http://pn.tvott.info:80/307216011400/307216011400/80423
+#EXTINF:-1 ,TR| JUMBOTV KOMEDI HD
+http://pn.tvott.info:80/307216011400/307216011400/80421
+#EXTINF:-1 ,TR| JUMBOTV GERILIM HD
+http://pn.tvott.info:80/307216011400/307216011400/80420
+#EXTINF:-1 ,TR| JUMBOTV FANTASTIK HD
+http://pn.tvott.info:80/307216011400/307216011400/80419
+#EXTINF:-1 ,TR| JUMBOTV DRAM HD
+http://pn.tvott.info:80/307216011400/307216011400/80418
+#EXTINF:-1 ,TR| JUMBOTV COCUK HD
+http://pn.tvott.info:80/307216011400/307216011400/80417
+#EXTINF:-1 ,TR| JUMBOTV BIYOGRAFI HD
+http://pn.tvott.info:80/307216011400/307216011400/80416
+#EXTINF:-1 ,TR| JUMBOTV BILIM-KURGU HD
+http://pn.tvott.info:80/307216011400/307216011400/80415
+#EXTINF:-1 ,TR| JUMBOTV AKSIYON HD
+http://pn.tvott.info:80/307216011400/307216011400/80414
+#EXTINF:-1 ,TR| JUMBOTV TURK HD
+http://pn.tvott.info:80/307216011400/307216011400/80413
+#EXTINF:-1 ,TR| JUMBOTV YESILCAM HD
+http://pn.tvott.info:80/307216011400/307216011400/80412
+#EXTINF:-1 ,TR| JUMBOTV SAVAS HD
+http://pn.tvott.info:80/307216011400/307216011400/80411
+#EXTINF:-1 ,TR| JUMBOTV SPOR HD
+http://pn.tvott.info:80/307216011400/307216011400/80410
+#EXTINF:-1 ,TR| JUMBOTV WESTERN HD
+http://pn.tvott.info:80/307216011400/307216011400/80409
+#EXTINF:-1 ,TR| SINEMA TV YERLI HD
+http://pn.tvott.info:80/307216011400/307216011400/80407
+#EXTINF:-1 ,TR| SINEMA TV KOMEDI HD
+http://pn.tvott.info:80/307216011400/307216011400/80405
+#EXTINF:-1 ,TR| SINEMA TV HD
+http://pn.tvott.info:80/307216011400/307216011400/80404
+#EXTINF:-1 ,TR| SINEMA TV AILE 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80402
+#EXTINF:-1 ,TR| SINEMA TV ACTION HD
+http://pn.tvott.info:80/307216011400/307216011400/80401
+#EXTINF:-1 ,TR| KEMAL SUNAL TV 4K
+http://pn.tvott.info:80/307216011400/307216011400/80400
+#EXTINF:-1 ,TR| BEIN SPORTS 1 HD
+http://pn.tvott.info:80/307216011400/307216011400/80398
+#EXTINF:-1 ,TR| BEIN SPORTS 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80397
+#EXTINF:-1 ,TR| BEIN SPORTS 3 HD
+http://pn.tvott.info:80/307216011400/307216011400/80396
+#EXTINF:-1 ,TR| BEIN SPORTS 4 HD
+http://pn.tvott.info:80/307216011400/307216011400/80395
+#EXTINF:-1 ,TR| BEINSPORTS 1 SD
+http://pn.tvott.info:80/307216011400/307216011400/80394
+#EXTINF:-1 ,TR| BEINSPORTS 1 HD (50fps 1920x1080)
+http://pn.tvott.info:80/307216011400/307216011400/80393
+#EXTINF:-1 ,TR| BEIN SPORTS 1 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80392
+#EXTINF:-1 ,TR| BEIN SPORTS 2 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80391
+#EXTINF:-1 ,TR| BEIN SPORTS 3 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80390
+#EXTINF:-1 ,TR| BEIN SPORTS 4 UHD
+http://pn.tvott.info:80/307216011400/307216011400/80389
+#EXTINF:-1 ,TR| BEIN MAX 1 HD
+http://pn.tvott.info:80/307216011400/307216011400/80388
+#EXTINF:-1 ,TR| BEIN MAX 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80387
+#EXTINF:-1 ,TR| BEIN SPORTS HABER UHD
+http://pn.tvott.info:80/307216011400/307216011400/80386
+#EXTINF:-1 ,TR| SPOR SMART HD
+http://pn.tvott.info:80/307216011400/307216011400/80385
+#EXTINF:-1 ,TR| SPORTS TV
+http://pn.tvott.info:80/307216011400/307216011400/80384
+#EXTINF:-1 ,TR| SARAN SPORT 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80382
+#EXTINF:-1 ,TR| TIVIBU SPOR UHD
+http://pn.tvott.info:80/307216011400/307216011400/80381
+#EXTINF:-1 ,TR| TIVIBU SPOR 1 HD
+http://pn.tvott.info:80/307216011400/307216011400/80380
+#EXTINF:-1 ,TR| TIVIBU SPOR 2 HD
+http://pn.tvott.info:80/307216011400/307216011400/80379
+#EXTINF:-1 ,TR| TIVIBU SPOR 3 HD
+http://pn.tvott.info:80/307216011400/307216011400/80378
+#EXTINF:-1 ,TR| TAY TV HD PLUS
+http://pn.tvott.info:80/307216011400/307216011400/80377
+#EXTINF:-1 ,TR| TRT SPOR HD
+http://pn.tvott.info:80/307216011400/307216011400/80376
+#EXTINF:-1 ,TR| TRT SPOR UHD
+http://pn.tvott.info:80/307216011400/307216011400/80375
+#EXTINF:-1 ,TR| A SPOR HD
+http://pn.tvott.info:80/307216011400/307216011400/80374
+#EXTINF:-1 ,TR| A SPOR UHD
+http://pn.tvott.info:80/307216011400/307216011400/80373
+#EXTINF:-1 ,TR| TRT SPOR 2 HD+
+http://pn.tvott.info:80/307216011400/307216011400/80372
+#EXTINF:-1 ,TR| GS TV
+http://pn.tvott.info:80/307216011400/307216011400/80371
+#EXTINF:-1 ,TR| FB TV HD PLUS
+http://pn.tvott.info:80/307216011400/307216011400/80370
+#EXTINF:-1 ,TR| BJK TV
+http://pn.tvott.info:80/307216011400/307216011400/80369
+#EXTINF:-1 ,TR| EUROSPORT 1 HD
+http://pn.tvott.info:80/307216011400/307216011400/80368
+#EXTINF:-1 ,TR| NBA HD
+http://pn.tvott.info:80/307216011400/307216011400/80366
+#EXTINF:-1 ,TR| FIGHT BOX HD
+http://pn.tvott.info:80/307216011400/307216011400/80365
+#EXTINF:-1 ,|TR| 24 HD
+http://95.214.232.251:8080/ricky123/ricky123/150505
+#EXTINF:-1 ,|TR| 360 HD
+http://95.214.232.251:8080/ricky123/ricky123/150510
+#EXTINF:-1 ,|TR| 360 TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150570
+#EXTINF:-1 ,|TR| A HABER HD
+http://95.214.232.251:8080/ricky123/ricky123/150504
+#EXTINF:-1 ,|TR| A HABER HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150469
+#EXTINF:-1 ,|TR| A NEWS HD
+http://95.214.232.251:8080/ricky123/ricky123/150529
+#EXTINF:-1 ,|TR| A SPOR HD
+http://95.214.232.251:8080/ricky123/ricky123/150599
+#EXTINF:-1 ,|TR| A SPOR HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150462
+#EXTINF:-1 ,|TR| A2 4K Transcoded
+http://95.214.232.251:8080/ricky123/ricky123/150693
+#EXTINF:-1 ,|TR| ANIMAL PLANET HD
+http://95.214.232.251:8080/ricky123/ricky123/150577
+#EXTINF:-1 ,|TR| ARTI TV
+http://95.214.232.251:8080/ricky123/ricky123/150685
+#EXTINF:-1 ,|TR| ATV 4K Transcoded
+http://95.214.232.251:8080/ricky123/ricky123/150688
+#EXTINF:-1 ,|TR| ATV HD
+http://95.214.232.251:8080/ricky123/ricky123/150525
+#EXTINF:-1 ,|TR| ATV HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150482
+#EXTINF:-1 ,|TR| BBC EARTH
+http://95.214.232.251:8080/ricky123/ricky123/150674
+#EXTINF:-1 ,|TR| BEAYZ TV HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150478
+#EXTINF:-1 ,|TR| BEIN BOX OFFICE 1
+http://95.214.232.251:8080/ricky123/ricky123/150513
+#EXTINF:-1 ,|TR| BEIN BOX OFFICE 3
+http://95.214.232.251:8080/ricky123/ricky123/150515
+#EXTINF:-1 ,|TR| BEIN GURME HD
+http://95.214.232.251:8080/ricky123/ricky123/150569
+#EXTINF:-1 ,|TR| beIN MOVIES ACTION 2 HD
+http://95.214.232.251:8080/ricky123/ricky123/150539
+#EXTINF:-1 ,|TR| beIN MOVIES ACTION HD
+http://95.214.232.251:8080/ricky123/ricky123/150540
+#EXTINF:-1 ,|TR| beIN MOVIES FAMILY HD
+http://95.214.232.251:8080/ricky123/ricky123/150541
+#EXTINF:-1 ,|TR| beIN MOVIES PREMIERE 2 HD
+http://95.214.232.251:8080/ricky123/ricky123/150542
+#EXTINF:-1 ,|TR| beIN MOVIES PREMIERE HD
+http://95.214.232.251:8080/ricky123/ricky123/150543
+#EXTINF:-1 ,|TR| beIN MOVIES STARS HD
+http://95.214.232.251:8080/ricky123/ricky123/150544
+#EXTINF:-1 ,|TR| beIN MOVIES TURK HD
+http://95.214.232.251:8080/ricky123/ricky123/150545
+#EXTINF:-1 ,|TR| beIN SERIES COMEDY HD
+http://95.214.232.251:8080/ricky123/ricky123/150546
+#EXTINF:-1 ,|TR| beIN SERIES DRAMA HD
+http://95.214.232.251:8080/ricky123/ricky123/150547
+#EXTINF:-1 ,|TR| beIN SERIES SCI-FI HD
+http://95.214.232.251:8080/ricky123/ricky123/150548
+#EXTINF:-1 ,|TR| beIN SERIES VICE HD
+http://95.214.232.251:8080/ricky123/ricky123/150549
+#EXTINF:-1 ,|TR| BEINSPORT 1 HD
+http://95.214.232.251:8080/ricky123/ricky123/150642
+#EXTINF:-1 ,|TR| BEINSPORT 1 HD (1080P)
+http://95.214.232.251:8080/ricky123/ricky123/150643
+#EXTINF:-1 ,|TR| BEINSPORT 1 HD (480P)
+http://95.214.232.251:8080/ricky123/ricky123/150641
+#EXTINF:-1 ,|TR| BEINSPORT 1 HD (50FPS 1080P)
+http://95.214.232.251:8080/ricky123/ricky123/150644
+#EXTINF:-1 ,|TR| BEINSPORT 1 MAX
+http://95.214.232.251:8080/ricky123/ricky123/150656
+#EXTINF:-1 ,|TR| BEINSPORT 1 MAX 720P
+http://95.214.232.251:8080/ricky123/ricky123/150654
+#EXTINF:-1 ,|TR| BEINSPORT 1 MAX HD
+http://95.214.232.251:8080/ricky123/ricky123/150655
+#EXTINF:-1 ,|TR| BEINSPORT 2 HD
+http://95.214.232.251:8080/ricky123/ricky123/150647
+#EXTINF:-1 ,|TR| BEINSPORT 2 HD 1080P
+http://95.214.232.251:8080/ricky123/ricky123/150648
+#EXTINF:-1 ,|TR| BEINSPORT 2 HD 720P
+http://95.214.232.251:8080/ricky123/ricky123/150646
+#EXTINF:-1 ,|TR| BEINSPORT 2 MAX
+http://95.214.232.251:8080/ricky123/ricky123/150659
+#EXTINF:-1 ,|TR| BEINSPORT 2 MAX 720P
+http://95.214.232.251:8080/ricky123/ricky123/150657
+#EXTINF:-1 ,|TR| BEINSPORT 2 MAX HD(DIGIPLAY)
+http://95.214.232.251:8080/ricky123/ricky123/150658
+#EXTINF:-1 ,|TR| BEINSPORT 3 HD 1080P
+http://95.214.232.251:8080/ricky123/ricky123/150651
+#EXTINF:-1 ,|TR| BEINSPORT 3 HD 720P
+http://95.214.232.251:8080/ricky123/ricky123/150649
+#EXTINF:-1 ,|TR| BEINSPORT 3 HD(DIGIPLAY)
+http://95.214.232.251:8080/ricky123/ricky123/150650
+#EXTINF:-1 ,|TR| BEINSPORT 4 HD 1080P
+http://95.214.232.251:8080/ricky123/ricky123/150653
+#EXTINF:-1 ,|TR| BEINSPORT 4 HD(DIGIPLAY)
+http://95.214.232.251:8080/ricky123/ricky123/150652
+#EXTINF:-1 ,|TR| BEINSPORT HABER
+http://95.214.232.251:8080/ricky123/ricky123/150660
+#EXTINF:-1 ,|TR| BEINSPORT Haber 4K (3840x2160)
+http://95.214.232.251:8080/ricky123/ricky123/150645
+#EXTINF:-1 ,|TR| BEINTK: BEIN  GURME  HD
+http://95.214.232.251:8080/ricky123/ricky123/150634
+#EXTINF:-1 ,|TR| BEINTK: BEiN BOX OFFICE 1 HD
+http://95.214.232.251:8080/ricky123/ricky123/150608
+#EXTINF:-1 ,|TR| BEINTK: BEiN BOX OFFICE 2 HD
+http://95.214.232.251:8080/ricky123/ricky123/150609
+#EXTINF:-1 ,|TR| BEINTK: BEiN BOX OFFICE 3 HD
+http://95.214.232.251:8080/ricky123/ricky123/150610
+#EXTINF:-1 ,|TR| BEINTK: beIN MOVIES ACTION 2 HD
+http://95.214.232.251:8080/ricky123/ricky123/150611
+#EXTINF:-1 ,|TR| BEINTK: beIN MOVIES ACTION HD
+http://95.214.232.251:8080/ricky123/ricky123/150612
+#EXTINF:-1 ,|TR| BEINTK: beIN MOVIES FAMILY HD
+http://95.214.232.251:8080/ricky123/ricky123/150613
+#EXTINF:-1 ,|TR| BEINTK: beIN MOVIES PREMIERE 2 HD
+http://95.214.232.251:8080/ricky123/ricky123/150614
+#EXTINF:-1 ,|TR| BEINTK: beIN MOVIES PREMIERE HD
+http://95.214.232.251:8080/ricky123/ricky123/150615
+#EXTINF:-1 ,|TR| BEINTK: beIN MOVIES STARS HD
+http://95.214.232.251:8080/ricky123/ricky123/150616
+#EXTINF:-1 ,|TR| BEINTK: beIN MOVIES TURK HD
+http://95.214.232.251:8080/ricky123/ricky123/150617
+#EXTINF:-1 ,|TR| BEINTK: beIN SERIES COMEDY HD
+http://95.214.232.251:8080/ricky123/ricky123/150618
+#EXTINF:-1 ,|TR| BEINTK: beIN SERIES DRAMA HD
+http://95.214.232.251:8080/ricky123/ricky123/150619
+#EXTINF:-1 ,|TR| BEINTK: beIN SERIES SCI-FI HD
+http://95.214.232.251:8080/ricky123/ricky123/150620
+#EXTINF:-1 ,|TR| BEINTK: beIN SERIES VICE HD
+http://95.214.232.251:8080/ricky123/ricky123/150621
+#EXTINF:-1 ,|TR| BEINTK: BEiN SPORT HABER HD
+http://95.214.232.251:8080/ricky123/ricky123/150607
+#EXTINF:-1 ,|TR| BEINTK: BEIN SPORTS MAX 1 HD
+http://95.214.232.251:8080/ricky123/ricky123/150605
+#EXTINF:-1 ,|TR| BEINTK: BEIN SPORTS MAX 2 HD
+http://95.214.232.251:8080/ricky123/ricky123/150606
+#EXTINF:-1 ,|TR| BEINTK: MOVIE SMART CLASSIC HD
+http://95.214.232.251:8080/ricky123/ricky123/150623
+#EXTINF:-1 ,|TR| BEINTK: MOVIE SMART FAMILY HD
+http://95.214.232.251:8080/ricky123/ricky123/150624
+#EXTINF:-1 ,|TR| BEINTK: MOVIE SMART FEST HD
+http://95.214.232.251:8080/ricky123/ricky123/150625
+#EXTINF:-1 ,|TR| BEYAZ TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150507
+#EXTINF:-1 ,|TR| BJK TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150602
+#EXTINF:-1 ,|TR| BLOOMBERG HT 4K Transcoded
+http://95.214.232.251:8080/ricky123/ricky123/150695
+#EXTINF:-1 ,|TR| BLOOMBERG HT HD
+http://95.214.232.251:8080/ricky123/ricky123/150511
+#EXTINF:-1 ,|TR| BLOOMBERG HT HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150466
+#EXTINF:-1 ,|TR| BURSA
+http://95.214.232.251:8080/ricky123/ricky123/150603
+#EXTINF:-1 ,|TR| Can TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150486
+#EXTINF:-1 ,|TR| CARTOON NETWORK
+http://95.214.232.251:8080/ricky123/ricky123/150490
+#EXTINF:-1 ,|TR| CARTOON NETWORK HD
+http://95.214.232.251:8080/ricky123/ricky123/150535
+#EXTINF:-1 ,|TR| CNN TURK HD
+http://95.214.232.251:8080/ricky123/ricky123/150501
+#EXTINF:-1 ,|TR| CNN TÜRK HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150468
+#EXTINF:-1 ,|TR| DA VINCI LEARNING
+http://95.214.232.251:8080/ricky123/ricky123/150665
+#EXTINF:-1 ,|TR| DISCOVERY CHANNEL HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150439
+#EXTINF:-1 ,|TR| DISCOVERY HD
+http://95.214.232.251:8080/ricky123/ricky123/150579
+#EXTINF:-1 ,|TR| DISCOVERY SCIENCE
+http://95.214.232.251:8080/ricky123/ricky123/150667
+#EXTINF:-1 ,|TR| DISCOVERY SCIENCE HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150438
+#EXTINF:-1 ,|TR| DISNEY CHANNEL HD
+http://95.214.232.251:8080/ricky123/ricky123/150583
+#EXTINF:-1 ,|TR| DISNEY JUNIOR HD
+http://95.214.232.251:8080/ricky123/ricky123/150584
+#EXTINF:-1 ,|TR| DIZI SMART PREMIUM HD
+http://95.214.232.251:8080/ricky123/ricky123/150566
+#EXTINF:-1 ,|TR| DMAX HD
+http://95.214.232.251:8080/ricky123/ricky123/150571
+#EXTINF:-1 ,|TR| DMAX HD 4K Transcoded
+http://95.214.232.251:8080/ricky123/ricky123/150698
+#EXTINF:-1 ,|TR| DMAX HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150435
+#EXTINF:-1 ,|TR| Dost TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150590
+#EXTINF:-1 ,|TR| DREAM TURK HD
+http://95.214.232.251:8080/ricky123/ricky123/150637
+#EXTINF:-1 ,|TR| DREAM TV
+http://95.214.232.251:8080/ricky123/ricky123/150638
+#EXTINF:-1 ,|TR| EKOTURK
+http://95.214.232.251:8080/ricky123/ricky123/150677
+#EXTINF:-1 ,|TR| FB TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150600
+#EXTINF:-1 ,|TR| FOX CRIME HD
+http://95.214.232.251:8080/ricky123/ricky123/150523
+#EXTINF:-1 ,|TR| FOX CRIME HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150458
+#EXTINF:-1 ,|TR| FOX HD
+http://95.214.232.251:8080/ricky123/ricky123/150495
+#EXTINF:-1 ,|TR| FOX LIFE HD
+http://95.214.232.251:8080/ricky123/ricky123/150524
+#EXTINF:-1 ,|TR| FOX TV 4K Transcoded
+http://95.214.232.251:8080/ricky123/ricky123/150690
+#EXTINF:-1 ,|TR| FOX TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150522
+#EXTINF:-1 ,|TR| FOX TV HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150481
+#EXTINF:-1 ,|TR| FX HD
+http://95.214.232.251:8080/ricky123/ricky123/150568
+#EXTINF:-1 ,|TR| FX HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150456
+#EXTINF:-1 ,|TR| GS TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150601
+#EXTINF:-1 ,|TR| HABER GLOBAL
+http://95.214.232.251:8080/ricky123/ricky123/150676
+#EXTINF:-1 ,|TR| HABER GLOBAL 4K Transcoded
+http://95.214.232.251:8080/ricky123/ricky123/150696
+#EXTINF:-1 ,|TR| HABER TURK HD
+http://95.214.232.251:8080/ricky123/ricky123/150502
+#EXTINF:-1 ,|TR| HABERTURK HD
+http://95.214.232.251:8080/ricky123/ricky123/150534
+#EXTINF:-1 ,|TR| HABERTURK HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150465
+#EXTINF:-1 ,|TR| HALK TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150528
+#EXTINF:-1 ,|TR| HISTORY HD
+http://95.214.232.251:8080/ricky123/ricky123/150574
+#EXTINF:-1 ,|TR| IDX DISCOVERY
+http://95.214.232.251:8080/ricky123/ricky123/150675
+#EXTINF:-1 ,|TR| KANAL 24 HD
+http://95.214.232.251:8080/ricky123/ricky123/150530
+#EXTINF:-1 ,|TR| KANAL 7 4K Transcoded
+http://95.214.232.251:8080/ricky123/ricky123/150692
+#EXTINF:-1 ,|TR| KANAL 7 HD
+http://95.214.232.251:8080/ricky123/ricky123/150509
+#EXTINF:-1 ,|TR| KANAL 7 HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150477
+#EXTINF:-1 ,|TR| KANAL B
+http://95.214.232.251:8080/ricky123/ricky123/150682
+#EXTINF:-1 ,|TR| KANAL D 4K Transcoded
+http://95.214.232.251:8080/ricky123/ricky123/150689
+#EXTINF:-1 ,|TR| KANAL D HD
+http://95.214.232.251:8080/ricky123/ricky123/150494
+#EXTINF:-1 ,|TR| KANAL D HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150484
+#EXTINF:-1 ,|TR| Kayseri TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150580
+#EXTINF:-1 ,|TR| KEMAL SUNAL TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150521
+#EXTINF:-1 ,|TR| KOY TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150673
+#EXTINF:-1 ,|TR| KRAL TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150520
+#EXTINF:-1 ,|TR| Mavi Karad
+http://95.214.232.251:8080/ricky123/ricky123/150663
+#EXTINF:-1 ,|TR| Mavi Karadeniz
+http://95.214.232.251:8080/ricky123/ricky123/150664
+#EXTINF:-1 ,|TR| MAX TURK
+http://95.214.232.251:8080/ricky123/ricky123/150567
+#EXTINF:-1 ,|TR| MINIKA COCUK HD
+http://95.214.232.251:8080/ricky123/ricky123/150585
+#EXTINF:-1 ,|TR| MINIKA GO HD
+http://95.214.232.251:8080/ricky123/ricky123/150586
+#EXTINF:-1 ,|TR| MOVIE CLASSIC HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150454
+#EXTINF:-1 ,|TR| MOVIE PREMIUM 2 HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150448
+#EXTINF:-1 ,|TR| MOVIE PREMIUM HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150447
+#EXTINF:-1 ,|TR| MOVIE SMART ACTION HD
+http://95.214.232.251:8080/ricky123/ricky123/150550
+#EXTINF:-1 ,|TR| MOVIE SMART FAMILY HD
+http://95.214.232.251:8080/ricky123/ricky123/150552
+#EXTINF:-1 ,|TR| MOVIE SMART FEST HD
+http://95.214.232.251:8080/ricky123/ricky123/150553
+#EXTINF:-1 ,|TR| MOVIE SMART PLATIN 2 HD
+http://95.214.232.251:8080/ricky123/ricky123/150555
+#EXTINF:-1 ,|TR| MOVIE SMART PLATIN HD
+http://95.214.232.251:8080/ricky123/ricky123/150556
+#EXTINF:-1 ,|TR| MOVIE SMART PREMIUM 2 HD
+http://95.214.232.251:8080/ricky123/ricky123/150557
+#EXTINF:-1 ,|TR| MOVIE SMART PREMIUM HD
+http://95.214.232.251:8080/ricky123/ricky123/150558
+#EXTINF:-1 ,|TR| MOVIE SMART TURK HD
+http://95.214.232.251:8080/ricky123/ricky123/150559
+#EXTINF:-1 ,|TR| MOVIE TÜRK HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150446
+#EXTINF:-1 ,|TR| NAT GEO
+http://95.214.232.251:8080/ricky123/ricky123/150670
+#EXTINF:-1 ,|TR| NAT GEO 4K Transcoded
+http://95.214.232.251:8080/ricky123/ricky123/150700
+#EXTINF:-1 ,|TR| NAT GEO PEOPLE
+http://95.214.232.251:8080/ricky123/ricky123/150668
+#EXTINF:-1 ,|TR| NAT GEO WILD
+http://95.214.232.251:8080/ricky123/ricky123/150669
+#EXTINF:-1 ,|TR| NAT GEO WILD HD
+http://95.214.232.251:8080/ricky123/ricky123/150578
+#EXTINF:-1 ,|TR| NAT GEO WILD HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150440
+#EXTINF:-1 ,|TR| NATIONAL GEOGRAPHIC HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150442
+#EXTINF:-1 ,|TR| NBA TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150604
+#EXTINF:-1 ,|TR| NICK JR HD
+http://95.214.232.251:8080/ricky123/ricky123/150582
+#EXTINF:-1 ,|TR| NICKELODEON HD
+http://95.214.232.251:8080/ricky123/ricky123/150581
+#EXTINF:-1 ,|TR| NTV HABER HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150464
+#EXTINF:-1 ,|TR| ON4 HD
+http://95.214.232.251:8080/ricky123/ricky123/150572
+#EXTINF:-1 ,|TR| POWER HD
+http://95.214.232.251:8080/ricky123/ricky123/150635
+#EXTINF:-1 ,|TR| POWERTURK HD
+http://95.214.232.251:8080/ricky123/ricky123/150636
+#EXTINF:-1 ,|TR| S SPORT HD
+http://95.214.232.251:8080/ricky123/ricky123/150596
+#EXTINF:-1 ,|TR| Semerkand TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150589
+#EXTINF:-1 ,|TR| SHOW MAX
+http://95.214.232.251:8080/ricky123/ricky123/150489
+#EXTINF:-1 ,|TR| SHOW TURK
+http://95.214.232.251:8080/ricky123/ricky123/150432
+#EXTINF:-1 ,|TR| SHOW TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150492
+#EXTINF:-1 ,|TR| SHOW TV HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150485
+#EXTINF:-1 ,|TR| SiNEMA TV 1001 HD
+http://95.214.232.251:8080/ricky123/ricky123/150560
+#EXTINF:-1 ,|TR| SiNEMA TV AiLE HD
+http://95.214.232.251:8080/ricky123/ricky123/150561
+#EXTINF:-1 ,|TR| SiNEMA TV AKSiYON HD
+http://95.214.232.251:8080/ricky123/ricky123/150562
+#EXTINF:-1 ,|TR| SiNEMA TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150563
+#EXTINF:-1 ,|TR| SiNEMA TV KOMEDi
+http://95.214.232.251:8080/ricky123/ricky123/150632
+#EXTINF:-1 ,|TR| SiNEMA TV KOMEDi HD
+http://95.214.232.251:8080/ricky123/ricky123/150564
+#EXTINF:-1 ,|TR| SiNEMA TV YERLi HD
+http://95.214.232.251:8080/ricky123/ricky123/150565
+#EXTINF:-1 ,|TR| SKYTURK 360 HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150473
+#EXTINF:-1 ,|TR| SMARTSPOR 1 HD
+http://95.214.232.251:8080/ricky123/ricky123/150595
+#EXTINF:-1 ,|TR| SPOR SMART HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150459
+#EXTINF:-1 ,|TR| SPORTS TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150598
+#EXTINF:-1 ,|TR| STAR TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150493
+#EXTINF:-1 ,|TR| STAR TV HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150483
+#EXTINF:-1 ,|TR| TELE 1 HD
+http://95.214.232.251:8080/ricky123/ricky123/150508
+#EXTINF:-1 ,|TR| TEVE 2 4K Transcoded
+http://95.214.232.251:8080/ricky123/ricky123/150697
+#EXTINF:-1 ,|TR| TEVE 2 HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150476
+#EXTINF:-1 ,|TR| TGRT Belgesel
+http://95.214.232.251:8080/ricky123/ricky123/150662
+#EXTINF:-1 ,|TR| TGRT HABER
+http://95.214.232.251:8080/ricky123/ricky123/150680
+#EXTINF:-1 ,|TR| TGRT HABER HD
+http://95.214.232.251:8080/ricky123/ricky123/150533
+#EXTINF:-1 ,|TR| TGRT HABER HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150463
+#EXTINF:-1 ,|TR| TIVIBU SPOR 1 HD
+http://95.214.232.251:8080/ricky123/ricky123/150592
+#EXTINF:-1 ,|TR| TIVIBU SPOR 2 HD
+http://95.214.232.251:8080/ricky123/ricky123/150593
+#EXTINF:-1 ,|TR| TIVIBU SPOR 3 HD
+http://95.214.232.251:8080/ricky123/ricky123/150594
+#EXTINF:-1 ,|TR| TJK TV
+http://95.214.232.251:8080/ricky123/ricky123/150661
+#EXTINF:-1 ,|TR| TLC
+http://95.214.232.251:8080/ricky123/ricky123/150671
+#EXTINF:-1 ,|TR| TLC HD
+http://95.214.232.251:8080/ricky123/ricky123/150573
+#EXTINF:-1 ,|TR| TRT 1 4K Transcoded
+http://95.214.232.251:8080/ricky123/ricky123/150687
+#EXTINF:-1 ,|TR| TRT 1 HD
+http://95.214.232.251:8080/ricky123/ricky123/150499
+#EXTINF:-1 ,|TR| TRT 1 HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150472
+#EXTINF:-1 ,|TR| TRT 2 HD
+http://95.214.232.251:8080/ricky123/ricky123/150488
+#EXTINF:-1 ,|TR| TRT AVAZ
+http://95.214.232.251:8080/ricky123/ricky123/150512
+#EXTINF:-1 ,|TR| TRT BELGESEL 4K Transcoded
+http://95.214.232.251:8080/ricky123/ricky123/150699
+#EXTINF:-1 ,|TR| TRT BELGESEL HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150433
+#EXTINF:-1 ,|TR| TRT COCUK HD
+http://95.214.232.251:8080/ricky123/ricky123/150588
+#EXTINF:-1 ,|TR| TRT DIYANET HD
+http://95.214.232.251:8080/ricky123/ricky123/150591
+#EXTINF:-1 ,|TR| TRT HABER
+http://95.214.232.251:8080/ricky123/ricky123/150500
+#EXTINF:-1 ,|TR| TRT HABER 4K Transcoded
+http://95.214.232.251:8080/ricky123/ricky123/150694
+#EXTINF:-1 ,|TR| TRT HABER HD
+http://95.214.232.251:8080/ricky123/ricky123/150532
+#EXTINF:-1 ,|TR| TRT HABER HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150467
+#EXTINF:-1 ,|TR| TRT KURDI HD
+http://95.214.232.251:8080/ricky123/ricky123/150526
+#EXTINF:-1 ,|TR| TRT MUZIK HD
+http://95.214.232.251:8080/ricky123/ricky123/150639
+#EXTINF:-1 ,|TR| TRT MÜZIK HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150443
+#EXTINF:-1 ,|TR| TRT SPOR 2 HD
+http://95.214.232.251:8080/ricky123/ricky123/150640
+#EXTINF:-1 ,|TR| TRT SPOR 2 HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150460
+#EXTINF:-1 ,|TR| TRT SPOR HD
+http://95.214.232.251:8080/ricky123/ricky123/150597
+#EXTINF:-1 ,|TR| TRT SPOR HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150461
+#EXTINF:-1 ,|TR| TRT TURK HD
+http://95.214.232.251:8080/ricky123/ricky123/150531
+#EXTINF:-1 ,|TR| TRT TURK HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150471
+#EXTINF:-1 ,|TR| TRT World HD
+http://95.214.232.251:8080/ricky123/ricky123/150666
+#EXTINF:-1 ,|TR| TRT WORLD HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150470
+#EXTINF:-1 ,|TR| TV 100
+http://95.214.232.251:8080/ricky123/ricky123/150684
+#EXTINF:-1 ,|TR| TV 100 HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150474
+#EXTINF:-1 ,|TR| TV 5
+http://95.214.232.251:8080/ricky123/ricky123/150686
+#EXTINF:-1 ,|TR| TV 8 4K Transcoded
+http://95.214.232.251:8080/ricky123/ricky123/150691
+#EXTINF:-1 ,|TR| TV 8 HD
+http://95.214.232.251:8080/ricky123/ricky123/150496
+#EXTINF:-1 ,|TR| TV 8 HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150480
+#EXTINF:-1 ,|TR| TV 8.5 HD
+http://95.214.232.251:8080/ricky123/ricky123/150497
+#EXTINF:-1 ,|TR| TV 8.5 HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150479
+#EXTINF:-1 ,|TR| TV NET HD
+http://95.214.232.251:8080/ricky123/ricky123/150527
+#EXTINF:-1 ,|TR| ULKE TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150506
+#EXTINF:-1 ,|TR| ULUSAL TV
+http://95.214.232.251:8080/ricky123/ricky123/150679
+#EXTINF:-1 ,|TR| UZAY HABER
+http://95.214.232.251:8080/ricky123/ricky123/150681
+#EXTINF:-1 ,|TR| VIASAT HISTORY HEVC
+http://95.214.232.251:8080/ricky123/ricky123/150434
+#EXTINF:-1 ,|TR| YABAN TV HD
+http://95.214.232.251:8080/ricky123/ricky123/150575
+#EXTINF:-1 ,|TR| Yildiz
+http://95.214.232.251:8080/ricky123/ricky123/150487
+#EXTINF:-1 ,|TR| YOL TV
+http://95.214.232.251:8080/ricky123/ricky123/150683
