@@ -851,17 +851,17 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="",Sudan TV
 https://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - BEINSPORTS 3 HD
+#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEINSPORTS 3 - BEINSPORTS 3 HD
 http://ottin.me:8000/salam_000946/ImHfNpi5/106517
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - |BEIN| BEIN 1 HEVC
+#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEIN 1 - |BEIN| BEIN 1 HEVC
 http://ottin.me:8000/salam_000946/ImHfNpi5/106543
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - |BEIN| BEIN 5 HEVC
+#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEIN 5 - |BEIN| BEIN 5 HEVC
 http://ottin.me:8000/salam_000946/ImHfNpi5/106547
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - BEIN SPORTS 1 SD
+#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEIN SPORTS  - BEIN SPORTS 1 SD
 http://ottin.me:8000/salam_000946/ImHfNpi5/106572
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - BEIN SPORTS 3 SD
+#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEIN SPORTS 3 - BEIN SPORTS 3 SD
 http://ottin.me:8000/salam_000946/ImHfNpi5/106574
-#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",ahlakid.com - BEIN SPORTS 6 SD
+#EXTINF:-1 group-title="|AR| BEIN SPORTS SD/HD/FHD",BEIN SPORTS 6 - BEIN SPORTS 6 SD
 http://ottin.me:8000/salam_000946/ImHfNpi5/106577
 #EXTINF:-1 ,ahlakid.com - SPORTV SD ALT
 http://vipeiptv.com:25461/genesio123/genesio123/856231
