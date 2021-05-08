@@ -1,0 +1,601 @@
+#EXTM3U
+#EXTINF:0,m3usample.m3u
+#EXTVLCOPT:network-caching=1000
+http://gsetechology.co.uk/sample/gsefile/m3usample.m3u
+#EXTINF:28,Al Quran Al Kareem
+#EXTVLCOPT:network-caching=1000
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:0,Al Quran Al Kareem
+#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+#EXTINF:0,Al Sunnah (Medina)
+#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:0,Saudi TV 1
+#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:0,SBC 
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=sbc_tv
+#EXTINF:0,Thikrayat TV
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=saudi_thikrayat
+#EXTINF:0,22 TV
+#EXTVLCOPT:network-caching=1000
+http://82.212.74.99:8000/live/hls/8117.m3u8
+#EXTINF:0,Ahl-Alquran TV
+#EXTVLCOPT:network-caching=1000
+https://5b18be6964c2f.streamlock.net/m/ngrp:ahul_all/playlist.m3u8
+#EXTINF:0,Al-wan TV
+#EXTVLCOPT:network-caching=1000
+http://82.212.74.99:8000/live/8112.m3u8
+#EXTINF:0,Al Khalij
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:0,Al Wesal TV
+#EXTVLCOPT:network-caching=1000
+http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
+#EXTINF:0,Beity
+#EXTVLCOPT:network-caching=1000
+http://82.212.74.2:8000/live/7312.m3u8
+#EXTINF:0,Mawada TV
+#EXTVLCOPT:network-caching=1000
+http://82.212.74.98:8000/live/7821.m3u8
+#EXTINF:0,Iqraa
+#EXTVLCOPT:network-caching=1000
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:0,Iqraa Europe Africa
+#EXTVLCOPT:network-caching=1000
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
+#EXTINF:0,Jasco Events TV
+#EXTVLCOPT:network-caching=1000
+http://82.212.74.100:8000/live/hls/8131.m3u8
+#EXTINF:0,Kaif TV
+#EXTVLCOPT:network-caching=1000
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:0,Makkah TV
+#EXTVLCOPT:network-caching=1000
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:0,Asharq
+#EXTVLCOPT:network-caching=1000
+https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:0,Rotana Cinema HD
+#EXTVLCOPT:network-caching=1000
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:0,Rotana Cinema HD KSA
+#EXTVLCOPT:network-caching=1000
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:0,Rotana Classic HD
+#EXTVLCOPT:network-caching=1000
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:0,rama" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="General",Rotana Drama HD
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u/rama%22%20tvg-country=%22SA%22%20tvg-language=%22Arabic%22%20tvg-logo=%22https:/rotana.net/assets/themes/TriTheme/images/channels/drama.png%22%20group-title=%22General%22,Rotana%20Drama%20HD
+#EXTVLCOPT:network-caching=1000
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+#EXTINF:0,Rotana Khalijia HD
+#EXTVLCOPT:network-caching=1000
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:0,Rotana Kids
+#EXTVLCOPT:network-caching=1000
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:0,Rotana+
+#EXTVLCOPT:network-caching=1000
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:0,KTV 1
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtv1
+#EXTINF:0,KTV 2
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtv2
+#EXTINF:0,KTV Al Majlis
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvmajlis
+#EXTINF:0,KTV Al Qurain
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvqurain
+#EXTINF:0,KTV Arabe
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvarabi
+#EXTINF:0,KTV Ethraa
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvethraa
+#EXTINF:0,KTV Khallik Bilbait
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvkids
+#EXTINF:0,KTV Sport
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvsports
+#EXTINF:0,KTV Sport Plus
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvsportsplus
+#EXTINF:0,Al-Bawadi
+#EXTVLCOPT:network-caching=1000
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/playlist.m3u8
+#EXTINF:0,Al-Sabah
+#EXTVLCOPT:network-caching=1000
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
+#EXTINF:0,Al-Shahed
+#EXTVLCOPT:network-caching=1000
+https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/playlist.m3u8
+#EXTINF:0,Alrai TV
+#EXTVLCOPT:network-caching=1000
+https://stream02.fasttelco.net/live/alrai.stream/playlist.m3u8
+#EXTINF:0,atv
+#EXTVLCOPT:network-caching=1000
+https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/playlist.m3u8
+#EXTINF:0,Funoon
+#EXTVLCOPT:network-caching=1000
+https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
+#EXTINF:0,Marina TV
+#EXTVLCOPT:network-caching=1000
+https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/live/MarinaTv_720p/playlist.m3u8
+#EXTINF:0,Scope TV
+#EXTVLCOPT:network-caching=1000
+https://gulfsat.cdn.easybroadcast.fr/live/Scope_abr/playlist.m3u8
+#EXTINF:0,3eesh Al Aan TV
+#EXTVLCOPT:network-caching=1000
+https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
+#EXTINF:0,Abu Dhabi Drama
+#EXTVLCOPT:network-caching=1000
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF:0,Abu Dhabi Sports 1
+#EXTVLCOPT:network-caching=1000
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:0,Abu Dhabi Sports 2
+#EXTVLCOPT:network-caching=1000
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:0,Abu Dhabi Sports 3
+#EXTVLCOPT:network-caching=1000
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:0,Abu Dhabi TV
+#EXTVLCOPT:network-caching=1000
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:0,Al Aan TV
+#EXTVLCOPT:network-caching=1000
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
+#EXTINF:0,Al Arabiya
+#EXTVLCOPT:network-caching=1000
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:0,Al Arabiya Al Hadath
+#EXTVLCOPT:network-caching=1000
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:0,Al Dhafra TV
+#EXTVLCOPT:network-caching=1000
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
+#EXTINF:0,AlWousta TV
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:0,Cartoon Network Arabic
+#EXTVLCOPT:network-caching=1000
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:0,Citruss TV
+#EXTVLCOPT:network-caching=1000
+https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
+#EXTINF:0,Dubai One
+#EXTVLCOPT:network-caching=1000
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:0,Dubai Racing
+#EXTVLCOPT:network-caching=1000
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:0,Dubai Racing 2
+#EXTVLCOPT:network-caching=1000
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:0,Dubai Racing 3
+#EXTVLCOPT:network-caching=1000
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:0,Dubai Sports 1
+#EXTVLCOPT:network-caching=1000
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:0,Dubai Sports 2
+#EXTVLCOPT:network-caching=1000
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:0,Dubai Sports 3
+#EXTVLCOPT:network-caching=1000
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:0,Dubai TV
+#EXTVLCOPT:network-caching=1000
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:0,Dubai Zaman
+#EXTVLCOPT:network-caching=1000
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:0,Emarat TV
+#EXTVLCOPT:network-caching=1000
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:0,Majid TV
+#EXTVLCOPT:network-caching=1000
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:0,MBC
+#EXTVLCOPT:network-caching=1000
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:0,MBC 2
+#EXTVLCOPT:network-caching=1000
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:0,MBC 3
+#EXTVLCOPT:network-caching=1000
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:0,MBC 4
+#EXTVLCOPT:network-caching=1000
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:0,MBC 5
+#EXTVLCOPT:network-caching=1000
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:0,MBC Action
+#EXTVLCOPT:network-caching=1000
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:0,MBC Bollywood
+#EXTVLCOPT:network-caching=1000
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:0,MBC Drama
+#EXTVLCOPT:network-caching=1000
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:0,MBC Drama PLUS
+#EXTVLCOPT:network-caching=1000
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:0,MBC Iraq
+#EXTVLCOPT:network-caching=1000
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:0,MBC Masr 1
+#EXTVLCOPT:network-caching=1000
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:0,MBC Masr 2
+#EXTVLCOPT:network-caching=1000
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:0,MBC Max
+#EXTVLCOPT:network-caching=1000
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:0,MBC Persia
+#EXTVLCOPT:network-caching=1000
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:0,National Geographic Abu Dhabi
+#EXTVLCOPT:network-caching=1000
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:0,Noor Dubai
+#EXTVLCOPT:network-caching=1000
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+#EXTINF:0,Peace TV English
+#EXTVLCOPT:network-caching=1000
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:0,Sama Dubai
+#EXTVLCOPT:network-caching=1000
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:0,Sharjah 2
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:0,Sharjah Sport
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:0,Sharjah TV
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:0,Sharqiya from Kalba TV
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:0,Yas
+#EXTVLCOPT:network-caching=1000
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:0,Al Jazeera Arabic
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:0,Al Jazeera Documentary
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:0,Al Jazeera English
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0,Al Jazeera Mubasher
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:0,Al Kass Sports 1
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass1
+#EXTINF:0,Al Kass Sports 2
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass2
+#EXTINF:0,Al Kass Sports 4
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass4
+#EXTINF:0,Al Kass Sports 5
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass5
+#EXTINF:0,Al Kass Online
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkassonline
+#EXTINF:0,Al Rayyan
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+#EXTINF:0,Al Rayyan Al Qadeem
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+#EXTINF:0,Qatar TV
+#EXTVLCOPT:network-caching=1000
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:0,Qatar TV 2
+#EXTVLCOPT:network-caching=1000
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:0,Bahrain Quran
+#EXTVLCOPT:network-caching=1000
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8
+#EXTINF:0,Bahrain TV
+#EXTVLCOPT:network-caching=1000
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8
+#EXTINF:0,Bahrain International
+#EXTVLCOPT:network-caching=1000
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20International_all/playlist.m3u8
+#EXTINF:0,Bahrain Sports 1
+#EXTVLCOPT:network-caching=1000
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:0,Bahrain Sports 2
+#EXTVLCOPT:network-caching=1000
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
+#EXTINF:0,Al Istiqama TV
+#EXTVLCOPT:network-caching=1000
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:0,Oman Sport
+#EXTVLCOPT:network-caching=1000
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:0,Oman TV
+#EXTVLCOPT:network-caching=1000
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:0,Oman TV Cultural
+#EXTVLCOPT:network-caching=1000
+https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:0,Oman TV Mubashir
+#EXTVLCOPT:network-caching=1000
+https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
+#EXTINF:0,Al Fath TV
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
+#EXTINF:0,Al Sharq
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:0,MBC Masr 1
+#EXTVLCOPT:network-caching=1000
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:0,MBC Masr 2
+#EXTVLCOPT:network-caching=1000
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:0,Mekameleen TV
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:0,Watan TV
+#EXTVLCOPT:network-caching=1000
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:0,Libya 218
+#EXTVLCOPT:network-caching=1000
+https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+#EXTINF:0,Libya 218 News
+#EXTVLCOPT:network-caching=1000
+http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:0,Libya Satellite Channel
+#EXTVLCOPT:network-caching=1000
+http://82.212.74.2:8000/live/hls/7321.m3u8
+#EXTINF:0,2M Monde
+#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/index.m3u8
+#EXTINF:0,Al Aoula
+#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:0,Al Aoula Laayoune
+#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:0,Al Maghribia
+#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:0,Arryadia
+#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:0,Assadissa
+#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:0,Athaqafia
+#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:0,Tamazight
+#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:0,M24 TV
+#EXTVLCOPT:network-caching=1000
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:0,Medi1 TV Maghreb
+#EXTVLCOPT:network-caching=1000
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8?DVR
+#EXTINF:0,Medi1 TV Arabic
+#EXTVLCOPT:network-caching=1000
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8?DVR
+#EXTINF:0,Medi1 TV Afrique
+#EXTVLCOPT:network-caching=1000
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8?DVR
+#EXTINF:0,Télé Maroc
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:0,Halab Today TV
+#EXTVLCOPT:network-caching=1000
+https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
+#EXTINF:0,Lana HD TV
+#EXTVLCOPT:network-caching=1000
+http://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+#EXTINF:0,Lana Plus TV
+#EXTVLCOPT:network-caching=1000
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
+#EXTINF:0,Noor Al-Sham
+#EXTVLCOPT:network-caching=1000
+http://82.137.248.16:1935/Nour/stream19042021/playlist.m3u8
+#EXTINF:0,Sama TV
+#EXTVLCOPT:network-caching=1000
+http://stream.sama-tv.net:8080/hls/samatv.m3u8
+#EXTINF:0,Spacetoon
+#EXTVLCOPT:network-caching=1000
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:0,Syria Drama
+#EXTVLCOPT:network-caching=1000
+http://82.137.248.16:1935/Drama/stream19042021/playlist.m3u8
+#EXTINF:0,Syria Satellite Channel
+#EXTVLCOPT:network-caching=1000
+http://82.137.248.16:1935/Sat/stream19042021/playlist.m3u8
+#EXTINF:0,Syria TV
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:0,Syrian Education TV
+#EXTVLCOPT:network-caching=1000
+http://82.137.248.16:1935/SEdu/stream19042021/playlist.m3u8
+#EXTINF:0,Syrian News Channel
+#EXTVLCOPT:network-caching=1000
+http://82.137.248.16:1935/Snews/stream19042021/playlist.m3u8
+#EXTINF:0,www.elahmad.com
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/video/elahmad.mp4
+#EXTINF:0,Al Ittihad
+#EXTVLCOPT:network-caching=1000
+https://live.alittihad.tv/ittihad/index.m3u8
+#EXTINF:0,Al Manar
+#EXTVLCOPT:network-caching=1000
+https://manar.live/iptv/index.m3u8
+#EXTINF:0,Al Mayadeen
+#EXTVLCOPT:network-caching=1000
+https://streaming.aletejahtv.iq:1937/mayadeen-live/smil:mayadeen.smil/chunklist_b1300000.m3u8
+#EXTINF:0,Future TV
+#EXTVLCOPT:network-caching=1000
+https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:0,LBC International
+#EXTVLCOPT:network-caching=1000
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:0,Nabaa TV
+#EXTVLCOPT:network-caching=1000
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+#EXTINF:0,Newvision
+#EXTVLCOPT:network-caching=1000
+https://master.starmena-cloud.com/hls/newv.m3u8
+#EXTINF:0,Tele Liban
+#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
+#EXTVLCOPT:network-caching=1000
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:0,TV Seventeen
+#EXTVLCOPT:network-caching=1000
+https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
+#EXTINF:0,Unews
+#EXTVLCOPT:network-caching=1000
+https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/playlist.m3u8
+#EXTINF:0,Al Mamlaka TV
+#EXTVLCOPT:network-caching=1000
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:0,Amman TV
+#EXTVLCOPT:network-caching=1000
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
+#EXTINF:0,Jordan Sport TV
+#EXTVLCOPT:network-caching=1000
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:0,Jordan TV
+#EXTVLCOPT:network-caching=1000
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:0,Ro'ya TV
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/watch?v=_8Y3lsUpRPA
+#EXTINF:0,Ajyal TV
+#EXTVLCOPT:network-caching=1000
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:0,Al Aqsa Channel
+#EXTVLCOPT:network-caching=1000
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:0,Alfajer Tv HD 1
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alfajertv
+#EXTINF:0,Alfajer Tv HD 2
+#EXTVLCOPT:network-caching=1000
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:0,An-Najah Nbc
+#EXTVLCOPT:network-caching=1000
+https://streaming.najah.edu:8443/hls/AlNajah.m3u8
+#EXTINF:0,Maan News
+#EXTVLCOPT:network-caching=1000
+http://htvmada.mada.ps:8888/maannews/index.m3u8
+#EXTINF:0,MusawaChannel
+#EXTVLCOPT:network-caching=1000
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+#EXTINF:0,Orient Radio + Palestine Mubasher
+#EXTVLCOPT:network-caching=1000
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+#EXTINF:0,Palestine Mubasher
+#EXTVLCOPT:network-caching=1000
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:0,Palestine Satellite Channel
+#EXTVLCOPT:network-caching=1000
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:0,Palestine Satellite Channel
+#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8
+#EXTINF:0,Echorouk News
+#EXTVLCOPT:network-caching=1000
+http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
+#EXTINF:0,Echorouk TV
+#EXTVLCOPT:network-caching=1000
+http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukTV/playlist.m3u8
+#EXTINF:0,Ennahar TV
+#EXTVLCOPT:network-caching=1000
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
+#EXTINF:0,Al Sumaria
+#EXTVLCOPT:network-caching=1000
+http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=sumari
+#EXTINF:0,Al Fallujah
+#EXTVLCOPT:network-caching=1000
+https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
+#EXTINF:0,Al Hurra
+#EXTVLCOPT:network-caching=1000
+https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:0,Al Hurra Iraq
+#EXTVLCOPT:network-caching=1000
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:0,Al Iraqiya Al 3ama
+#EXTVLCOPT:network-caching=1000
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:0,Al Iraqiya News
+#EXTVLCOPT:network-caching=1000
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:0,Al Rafidain
+#EXTVLCOPT:network-caching=1000
+https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:0,Al Rafidain HQ
+#EXTVLCOPT:network-caching=1000
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
+#EXTINF:0,Al Rasheed
+#EXTVLCOPT:network-caching=1000
+https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
+#EXTINF:0,Al Sharqiya
+#EXTVLCOPT:network-caching=1000
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+#EXTINF:0,Al Sharqiya News
+#EXTVLCOPT:network-caching=1000
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:0,Dijlah
+#EXTVLCOPT:network-caching=1000
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:0,Dijlah (Backup)
+#EXTVLCOPT:network-caching=1000
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:0,Kurd Channel
+#EXTVLCOPT:network-caching=1000
+https://server5.ikomg.com/hls/kurd.m3u8
+#EXTINF:0,Kurdistan TV
+#EXTVLCOPT:network-caching=1000
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
+#EXTINF:0,Kurdsat
+#EXTVLCOPT:network-caching=1000
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:60,MBC Iraq
+#EXTVLCOPT:network-caching=1000
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:0,Rudaw TV
+#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:0,Türkmeneli
+#EXTVLCOPT:network-caching=1000
+http://116.203.71.169/hls/stream1.m3u8
+#EXTINF:0,Zagros
+#EXTVLCOPT:network-caching=1000
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:0,KIRKUK TV
+#EXTVLCOPT:network-caching=1000
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/58.m3u8
+#EXTINF:0,www.Elahmad.com
+#EXTVLCOPT:network-caching=1000
+http://www.Elahmad.com/video/elahmad.mp4
