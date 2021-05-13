@@ -40,8 +40,8 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",MBC (1080p)
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
-#EXTINF:-1 tvg-id="LBC" tvg-name="LBC" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/YLcmYCR.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",LBC (1080p)
-https://hiplayer.hibridcdn.net/p/rotana-lbc
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/YLcmYCR.png" group-title="General",LBC (1080p)
+https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="LBCInternational.lb" tvg-name="LBC International" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/YPR45yP.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",LBC International (1080p)
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-id="KarbalaLive1.ir" tvg-name="Karbala Live 1" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-url="" group-title="Religious",Karbala Live 1 (360p)
