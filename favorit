@@ -1,5 +1,15 @@
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",MBC 2 (1080p)
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Iq: Al Anwar 2
+http://new-pro.tv:8080/live/HAMASHAREF27/XSmR2Vnlht/100342.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Iq: Al Anwar 1
+http://new-pro.tv:8080/live/HAMASHAREF27/XSmR2Vnlht/14397.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Iq: Asia TV
+http://new-pro.tv:8080/live/HAMASHAREF27/XSmR2Vnlht/10977.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Iq: Al Salam TV
+http://new-pro.tv:8080/live/HAMASHAREF27/XSmR2Vnlht/14141.m3u8
+
 #EXTINF:-1 tvg-id="AlhayatTV.lb" tvg-name="Alkawthar TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkawthar-tv-ir.png" group-title="General",Alkawthar TV (720p)
 http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
 #EXTINF:-1 tvg-id="AlhayatTV.lb" tvg-name="AbuDhabi _ Drama" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-drama-ae.png" group-title="General",AbuDhabi _ Drama (720p)
