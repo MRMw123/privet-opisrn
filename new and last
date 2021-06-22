@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AlhayatTV.lb" tvg-name="Alkawthar TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkawthar-tv-ir.png" group-title="General",Alkawthar TV (720p)
+http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
+#EXTINF:-1 tvg-id="AlhayatTV.lb" tvg-name="AbuDhabi _ Drama" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-drama-ae.png" group-title="General",AbuDhabi _ Drama (720p)
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlhayatTV.lb" tvg-name="AFAQ_TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/afaq-tv-iq.png" group-title="General",AFAQ_TV (720p)
+http://149.100.19.226:8001/play/AFAQ_TV
+#EXTINF:-1 tvg-id="Al Jazeera Documentary.lb" tvg-name="Al Jazeera Documentary" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_jazeera_documentary.png" group-title="General",Al Jazeera Documentary(720p)
+http://teledunet.com:8080/live/azrotv/azrotv2021/10040.m3u8
+#EXTINF:-1 tvg-id="alkafeel.lb" tvg-name="alkafeel" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkafeel_tv_iq.png" group-title="General",alkafeel(720p)
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
+#EXTINF:-1 tvg-id="Babylon TV.lb" tvg-name="Babylon TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/bb/babylon_tv_iq.png" group-title="Babylon TV(720p)
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/28
+#EXTINF:-1 tvg-id="BBC Arabic.lb" tvg-name="BBC Arabic" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_arabic.png" group-title="BBC Arabic(720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:-1 tvg-id="Dijlah.lb" tvg-name="Dijlah" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dijlah-tv-iq.png" group-title="BBC Arabic(720p)
+http://91.134.145.75:10001/Dijlah/index.m3u8
+#EXTINF:-1 tvg-id="France 24 Arabic.lb" tvg-name="France 24 Arabic" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png" group-title="France 24 Arabic(720p)
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="TRT Arabi.lb" tvg-name="TRT Arabi" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_arapca_tr.png" group-title="TRT Arabi(720p)
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Al Qamar TV.lb" tvg-name="Al Qamar TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-qamar-tv.png" group-title="Al Qamar TV(720p)
+https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="22TV.sa" tvg-name="22 TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png" group-title="Music",Rotana Radio Jordan (220p)
