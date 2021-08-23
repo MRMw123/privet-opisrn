@@ -1,0 +1,50 @@
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ ▆☆ IRAQ HD CHANNELS ☆▆ ▅ ▄ ▂ ▁" tvg-logo="" group-title="IRAQ HD",▁ ▂ ▄ ▅ ▆☆ IRAQ HD CHANNELS ☆▆ ▅ ▄ ▂ ▁
+https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-Sport" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAyuCbimM4XDN12sSObYwFvokiGKDkCg0al0A=s900-mo-c-c0xffffffff-rj-k-no" group-title="IRAQ HD",AR:IRQ-Sport
+http://95.170.215.109:80/hls/m3u8/IraqiaSp-Backup.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-MBC IRAQ" tvg-logo="http://www.alhayat.com/uploads/images/2019/01/27/53959.jpg" group-title="IRAQ HD",AR:IRQ-MBC IRAQ
+http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-AL Ahd" tvg-logo="https://www.asiasat.tv/wp-content/uploads/%D8%B9%D9%87%D8%AF.jpg" group-title="IRAQ HD",AR:IRQ-AL Ahd
+http://78.193.122.129:9981/play/a04q
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ- karbala" tvg-logo="http://skgwebtv.com/wp-content/uploads/2016/10/karbala-tv-2-400x250.jpg" group-title="IRAQ HD",AR:IRQ- karbala
+https://player-api.new.livestream.com/accounts/11436227/events/3998452/live.secure.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-AFAQ-TV" tvg-logo="https://www.lmalshaml.com/upload/photos/2018/03/CHWcCdhRgZmnpwROdjGG_18_a09bfb55675488a711db3ba566e5c5ab_image.jpg" group-title="IRAQ HD",AR:IRQ-AFAQ-TV
+http://78.193.122.129:9981/play/a02h
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-Naba TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/NabaaTV2.png" group-title="IRAQ HD",AR:IRQ-Naba TV
+http://31.14.40.238:1935/live/Nabaa/chunklist_w881472197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-AL Hadath" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAtY2mk6JfDVdagV2H2E1EJGM1SZytYAeB7gw=s900-mo-c-c0xffffffff-rj-k-no" group-title="IRAQ HD",AR:IRQ-AL Hadath
+http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-AL Maaref" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783620_logo_al_maaref_tv_bahrain.png" group-title="IRAQ HD",AR:IRQ-AL Maaref
+http://78.193.122.129:9981/play/a031
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-Samarra tv" tvg-logo="" group-title="IRAQ HD",AR:IRQ-Samarra tv
+http://212.18.231.213:1935/samarra/ngrp:samarra_all/chunklist_w116893029_b1431072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-AL Taghier" tvg-logo="https://1.bp.blogspot.com/-Q-i-P1NwufU/W3DthdXiwdI/AAAAAAAAAtQ/R9QKOMW-dk4aG2gZRWFXMm60Cl-TyH4cgCLcBGAs/s1600/altaghier.png" group-title="IRAQ HD",AR:IRQ-AL Taghier
+https://player-api.new.livestream.com/accounts/17678123/events/8170529/live.secure.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-AL Rafidain" tvg-logo="" group-title="IRAQ HD",AR:IRQ-AL Rafidain
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-AL Hurra" tvg-logo="" group-title="IRAQ HD",AR:IRQ-AL Hurra
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-AL HURRA IRAQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpyZRP5hYYw_iLKBk33hy-ViLdk_MlZPjrzUPBoBu44yUIScF4" group-title="IRAQ HD",AR:IRQ-AL HURRA IRAQ
+http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-Al Naeem TV" tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2018/10/Alnaeem-TV-HD-768x614.png" group-title="IRAQ HD",AR:IRQ-Al Naeem TV
+http://212.18.231.213:1935/alnaeemtv/alnaeemtv/chunklist_w1337870541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-AL Diyar TV" tvg-logo="" group-title="IRAQ HD",AR:IRQ-AL Diyar TV
+http://82.212.74.99:8000/live/hls/8166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-AL Rasheed" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/AlRasheedTV.png" group-title="IRAQ HD",AR:IRQ-AL Rasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-AlMasar Aloula" tvg-logo="https://3.bp.blogspot.com/-McJhpKHvBos/W49tR6OsLVI/AAAAAAAABCY/s6NQHWlgEzctGu2KIjnlDVDyrPrOX-REACLcBGAs/s400/%25D8%25AA%25D8%25B1%25D8%25AF%25D8%25AF-%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9-%25D8%25A7%25D9%2584%25D9%2585%25D8%25B3%25D8%25A7%25D8%25B1.jpg" group-title="IRAQ HD",AR:IRQ-AlMasar Aloula
+http://212.18.231.213:1935/almasar/almasar_360p/chunklist_w1131855208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-AL Sharqiya TV" tvg-logo="" group-title="IRAQ HD",AR:IRQ-AL Sharqiya TV
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w565406043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-Dejlah TV (Dijlah)" tvg-logo="" group-title="IRAQ HD",AR:IRQ-Dejlah TV (Dijlah)
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-NRT 2 Arabiya HD" tvg-logo="" group-title="IRAQ HD",AR:IRQ-NRT 2 Arabiya HD
+https://5d5e28481f3ad.streamlock.net/NRT2/livestream/chunklist_w1072586656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-DUA HD" tvg-logo="https://3.bp.blogspot.com/-XTKuamy6iNE/WQZY5FT3mzI/AAAAAAAAFk0/teUB4VyQllIQH72dBed0cdbWUue3J2CuQCLcB/s1600/dua_channel_pk.png" group-title="IRAQ HD",AR:IRQ-DUA HD
+http://38.96.175.40:1935/liveTrans//channel5_190k/chunklist_w1412664744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-ALdiyar HD" tvg-logo="" group-title="IRAQ HD",AR:IRQ-ALdiyar HD
+http://82.212.74.99:8000/live/hls/8166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-ALSIRAT" tvg-logo="https://www.channelsfrequency.com/public_html/wp-content/uploads/2016/12/%D9%A1-15.jpg" group-title="IRAQ HD",AR:IRQ-ALSIRAT
+https://svs.itworkscdn.net/assiratvlive/assirat/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:IRQ-IMAM REDA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Imam_reza-224009.jpg/1200px-Imam_reza-224009.jpg" group-title="IRAQ HD",AR:IRQ-IMAM REDA TV
+http://185.23.131.61/hls/rozeh_2.m3u8
