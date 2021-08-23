@@ -4,7 +4,8 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 http://iptv.repl.co/Arabic/Al_summaria
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",DISNEY CHANNEL HD
 http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/46611?checkedby:iptvcat.com
-
+#EXTINF:-1 tvg-id="Funoon.kw" tvg-name="Funoon" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/FunoonTV.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Funoon
+https://list.iptvcat.com/my_list/s/1cd3783e3d3075bf07622e9746d9ac79.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Iq: Al Anwar 2
 http://new-pro.tv:8080/live/HAMASHAREF27/XSmR2Vnlht/100342.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Iq: Al Anwar 1
