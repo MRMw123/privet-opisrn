@@ -1,1 +1,16 @@
-http://iptvline.ddns.net:443/get.php?username=cCFHBtdA&password=dmYuDrj5&type=m3u_plus&output=mpegts
+#EXTINF:-1 tvg-id="" tvg-name="SE - The Forever Prisoner" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDD8hON3IML5kRsmr44bQo7q8dW.jpg" group-title="|SE| FILM 2019 - 2021",SE - The Forever Prisoner
+http://iptvline.ddns.net:80/movie/cCFHBtdA/dmYuDrj5/814834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SE - The Gardener" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4qfzavWhi6RZGDT9B8tJ7RNIN.jpg" group-title="|SE| FILM 2019 - 2021",SE - The Gardener
+http://iptvline.ddns.net:80/movie/cCFHBtdA/dmYuDrj5/814823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SE - Lucy The Human Chimp" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQFfzSzKTLwdBG1BcMpWtbGgOLt.jpg" group-title="|SE| FILM 2019 - 2021",SE - Lucy The Human Chimp
+http://iptvline.ddns.net:80/movie/cCFHBtdA/dmYuDrj5/814822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SE - Slumber Party Massacre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkxB4RIaAIHKYcUOWooHWXWevhK.jpg" group-title="|SE| FILM 2019 - 2021",SE - Slumber Party Massacre
+http://iptvline.ddns.net:80/movie/cCFHBtdA/dmYuDrj5/814821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SE - Zola" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJLCPROp9bmNndurwZpVnOioVpB.jpg" group-title="|SE| FILM 2019 - 2021",SE - Zola
+http://iptvline.ddns.net:80/movie/cCFHBtdA/dmYuDrj5/814820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SE - Lulli" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztJHKv6KSSgCTWAI2STrX2BeuJZ.jpg" group-title="|SE| FILM 2019 - 2021",SE - Lulli
+http://iptvline.ddns.net:80/movie/cCFHBtdA/dmYuDrj5/814819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SE - The War Below" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oATjoKUWiRcetzXTWSnxthID7Xa.jpg" group-title="|SE| FILM 2019 - 2021",SE - The War Below
+http://iptvline.ddns.net:80/movie/cCFHBtdA/dmYuDrj5/814818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SE - The Voyeurs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg" group-title="|SE| FILM 2019 - 2021",SE - The Voyeurs
+http://iptvline.ddns.net:80/movie/cCFHBtdA/dmYuDrj5/814688.mp4
