@@ -24,11 +24,12 @@ https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Al Qamar TV.lb" tvg-name="Al Qamar TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-qamar-tv.png" group-title="Al Qamar TV(720p)
 https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 HD
+https://2d03lw.janjua.pw:8088/adfree/mbccc22222_Wwss/playlist.m3u8?vidictid=190436094598&id=106889&pk=959beb0dff493877e0866e162f5cbad6bfca9c610e90e84e7a0c477500319e63
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",MBC (1080p)
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3_6677592.ts?m=1595424399
+https://2d02.janjua.pw:8088/adfree/mbccc11111_Wwss/media_502.ts?vidictid=190432691519&id=106888&pk=959beb0dff493877e0866e162f5cbad6bfca9c610e90e84e7a0c477500319e63
 #EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",MBC 4 (1080p)
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",MBC 5 (1080p)
+https://2d04lw.janjua.pw:8088/adfree/mbccc44444_Wwss/playlist.m3u8?vidictid=190435884978&id=106890&pk=959beb0dff493877e0866e162f5cbad6bfca9c610e90e84e7a0c477500319e63#EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",MBC 5 (1080p)
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="MBC Egypt" tvg-name="MBC Egypt" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",MBC Masr 1 (1080p)
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
